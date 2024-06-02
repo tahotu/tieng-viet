@@ -139,7 +139,7 @@ Mai an  → Maiyal
 | ạ (nặng) | q | cộng → kowqng, thạch → thaqx |
 
 
-### 4. Vài trường hợp cần chú ý
+### 4. Một số trường hợp cần chú ý
 
 | Gốc | Mới |
 | - | - |
@@ -155,6 +155,7 @@ Mai an  → Maiyal
 | quên  |  kuen |
 | quyên  |  kuien |
 | quen  |  koen |
+| giữ gìn | jursjidl |
 
 
 ## Ví dụ
