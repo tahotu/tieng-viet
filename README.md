@@ -41,7 +41,7 @@ Howmkoa toiw di zuthuiedn ors Haqlong, Koasngning
 | t | th | sát  → sath |
 | nh | ng, il | xinh  → xing, xanh  → xail |
 
-2. Nguyên âm khi đứng ở tếng thứ 2 trở đi của từ phức phải có phụ âm câm "y"
+2. Nguyên âm khi đứng **đầu** ở tếng thứ 2 trở đi trong từ phức phải có phụ âm câm "y"
 ```
 Mai an  → Maiyal
 ```
