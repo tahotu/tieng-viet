@@ -7,13 +7,19 @@ Cách viết tiếng Việt:
  - Chỉ dùng các chữ cái trên bàn phím qwerty tiêu chuẩn
  - Có thể viết liền những từ phức
 
+Ví dụ:
+
+> Đây là cách viết khác cho tiếng Việt
+
+Dei lad kax viet khac cho tiezngvieqt
+
+> Hôm qua tôi đi du thuyền ở Hạ Long, Quảng Ninh
+
+Howmkoa toiw di zuthuiedn ors Haqlong, Koasngning
+
 ## Quy tắc
 
 ### 1. Đổi phụ âm
-
-1. Đổi phụ âm
-Gốc: gi, d, đ, ch, ch(cuối), n(cuối), ph, t(cuối)
-Đổi: j, z, d, c, x, l, f, th
 
 ####  Phụ âm đầu
 | Gốc | Mới | ví dụ |
