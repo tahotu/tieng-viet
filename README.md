@@ -33,7 +33,7 @@ nuowth gal uowzng mauz kuas cuzng ladm turc.
 một nghìn cái thân của ta phải đem bọc vào da ngựa , ta cũng vui_lòng .
 
 Zoub co mowqth trarm kaiz theil kuas ta fais daem dowth ors dowdngkos,
-mowqth ngidl kaiz theil kuas ta fais daem boqc za nguarq, ta kubng vuilodng.
+mowqth ngidl kaiz theil kuas ta fais daem boqc vaod za nguarq, ta kubng vuilodng.
 
 > Các ngươi lâu_nay ở dưới cửa ta cầm_giữ binh_quyền , thiếu áo thì mặc áo cho ,
 thiếu ăn thì sẻ cơm đỡ , quan nhỏ thì cho lên chức , bổng ít cho thêm lương ,
