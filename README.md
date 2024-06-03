@@ -1,4 +1,4 @@
-# Tiezngvieqt
+# Tiezngvieqth
 Cách viết khác cho tiếng Việt (chỉ để giải trí)
 
 ## Giới thiệu
@@ -11,7 +11,7 @@ Ví dụ:
 
 > Đây là cách viết khác cho tiếng Việt
 
-Dei lad kax viet khac cho tiezngvieqt
+Dei lad kax vieth khac co tiezngvieqth
 
 > Hôm qua tôi đi du thuyền ở Hạ Long, Quảng Ninh
 
