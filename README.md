@@ -24,6 +24,8 @@ Howmkoa toiw di zuthuiedn ors Haqlong, Koasngning
 ####  Phụ âm đầu
 | Gốc | Mới | ví dụ |
 |----|--|--| 
+| gh | g | ghê → ge |
+| ngh | ng | nghiêng -> ngieng |
 | gi | j | gia  → ja |
 | d | z | da  → za |
 | đ | đ | đa  → da |
