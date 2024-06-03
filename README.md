@@ -25,7 +25,7 @@ Howmkoa toiw di zuthuiedn ors Haqlong, Koasngning
 tấm_lòng đau như bị đâm , vẫn lấy cái sự chưa thể ăn thịt nằm da ,
 nuốt gan uống máu của chúng làm tức .
 
-Ta thuadng thid toirz buars kuel arn, juarb dem vows goiwz, nuacmarth tradl xuowzng deid maep,
+Ta thuadng thid toirz buarb kuel arn, juarb dem vows goiwz, nuacmarth tradl xuowzng deid maep,
 teizmlodng dau nhur biq deim, veibl leiz kaiz cuar thes arn thiqth nardm za,
 nuowth gal uowzng mauz kuas cuzng ladm turc.
 
