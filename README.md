@@ -19,7 +19,7 @@ Howmkoa toiw di zuthuiedl ors Haqlong, Koasngning
 
 ## Ví dụ
 
-#### Trích Hịch tướng sĩ
+### Trích Hịch tướng sĩ - Trix Hiqx tuazngsib
 
 > Ta thường thì tới bữa quên ăn , giữa đêm vỗ gối , nước_mắt tràn xuống đầy mép ,
 tấm_lòng đau như bị đâm , vẫn lấy cái sự chưa thể ăn thịt nằm da ,
@@ -71,7 +71,7 @@ hoặc là đam mùi rượu ngọt , hoặc là mê tiếng hát hay.
 vieqc kueilkuowc carsng thedm doaizhoaid, kubng koz nguaid cis ham ved sarlbarzl mad kuel vieqc bing,
 hoarqc lad dam muid ruouq ngoqth, hoarqc lad me tiezng hath hay.
 
-#### Các ví dụ khác
+### Các ví dụ khác
 
 > Cộng hòa xã hội chủ nghĩa Việt Nam
 > 
