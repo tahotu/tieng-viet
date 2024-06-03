@@ -56,13 +56,13 @@ gặp nước bị dơ chẳng lấy làm thẹn , làm tướng nhà_nước ph
 mà không có lòng căm_hờn , nghe khúc_nhạc thờ đem thết một tên ngụy_sứ , mà không có_vẻ tức_giận ;
 
 Thezmad kac nguai theiz cus biq nhuqc carsng leiz ladm lo,
-garqp nuac biq zor carsng leiz ladm thaeqn, ladm tuazng nhadnuac fais houd meiz duarz cummuadng,
-mad khowng koz lodng karmhordn, ngae khucnhaqc thord daem theth mowqth tel nguyqsurz, mad khowng kozvaes turcjeiqn;
+garqp nuac biq zor carsng leiz ladm thaeql, ladm tuazng nhadnuac fais houd meiz duarz cummuadng,
+mad khowng koz lodng karmhordl, ngae khucnhaqc thord daem theth mowqth tel nguyqsurz, mad khowng kozvaes turcjeiqn;
 
 > kẻ thì chọi gà cho thích , kẻ thì đánh_bạc mua_vui , có người chỉ chăm vườn_ruộng , cốt nuôi được nhà ;
 có người chỉ mến vợ_con , lấy mình làm trọng ; cũng có kẻ chỉ lo làm giàu làm có ,
 
-kaes thid coiq gad co thix, kaes thid daiznbaqc muavui, koz nguaid cis carm vuadlruowqng, kowth nuoiw duaqc nhad;
+kaes thid coiq gad co thix, kaes thid daizlbaqc muavui, koz nguaid cis carm vuadlruowqng, kowth nuoiw duaqc nhad;
 koz nguaid cis mezl vorqkol, leiz mindng ladm troqng; kubng koz kaes cis lo ladm jaud ladm koz,
 
 > việc quân_quốc chẳng thèm đoái_hoài , cũng có người chỉ ham về săn_bắn mà quên việc binh ,
