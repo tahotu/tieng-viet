@@ -98,12 +98,14 @@ hoarqc lad dam muid ruouq ngoqth, hoarqc lad me tiezng hath hay.
 | t | th | sát  → sath |
 | nh | ng, il | xinh  → xing, xanh  → xail |
 
-2. Nguyên âm khi đứng **đầu** ở tiếng thứ 2 trở đi trong từ phức phải có phụ âm câm "y"
+- Các từ phức **viết liền không dấu cách**
+
+  
+- Nguyên âm khi đứng **đầu** ở tiếng thứ 2 trở đi trong từ phức phải có phụ âm câm "y"
 ```
 Mai an  → Maiyal
 ```
 
-3. Các từ phức viêt liền ko dấu cách
 
 ### 2. Đổi các nguyên âm/vần
 
