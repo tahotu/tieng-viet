@@ -132,7 +132,7 @@ Mai an  → Maiyal
 | ô | ow | sô  → sow |
 | ơ | or | sơ  → sor |
 | u | u | - |
-| u | ur | sư  → sur |
+| ư | ur | sư  → sur |
 
 
 ####  Nguyên âm đôi
