@@ -1,0 +1,347 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tiezngvieqth</title>
+    <style>
+        @import url(https://fonts.googleapis.com/css?family=Roboto);
+        @import url(https://fonts.googleapis.com/css?family=Handlee);
+
+        body {
+            margin: 40px 0 0;
+            background: #91D1D3;
+            font-family: 'Roboto', sans-serif;
+        }
+
+        .paper {
+            position: relative;
+            width: 90%;
+            max-width: 800px;
+            min-width: 400px;
+            height: 480px;
+            max-height: 40vh;
+            margin: 0 auto;
+            background: #fafafa;
+            border-radius: 10px;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, .3);
+            overflow: hidden;
+        }
+
+        .paper:before {
+            content: '';
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            left: 0;
+            width: 60px;
+            background: radial-gradient(#575450 6px, transparent 7px) repeat-y;
+            background-size: 34px 30px;
+            border-right: 3px solid #D44147;
+            box-sizing: border-box;
+        }
+
+        .paper-content {
+            position: absolute;
+            top: 21px;
+            right: 0;
+            bottom: 21px;
+            left: 60px;
+            background: linear-gradient(transparent, transparent 20px, #91D1D3 20px);
+            background-size: 21px 21px;
+        }
+
+        .paper-content textarea {
+            width: 100%;
+            max-width: 100%;
+            height: 100%;
+            max-height: 100%;
+            line-height: 21px;
+            padding: 0 10px;
+            border: 0;
+            outline: 0;
+            background: transparent;
+            color: mediumblue;
+            font-family: 'Handlee', cursive;
+            font-weight: bold;
+            font-size: 14px;
+            box-sizing: border-box;
+            z-index: 1;
+        }
+
+        footer {
+            margin-top: 30px;
+            text-align: center;
+            font-size: 12px;
+            color: rgba(0, 0, 0, .6);
+        }
+
+        footer a {
+            color: rgba(255, 255, 255, .8);
+        }
+
+        h3.title {
+            font-family: 'Handlee', cursive;
+        }
+
+        .tiengviet textarea {
+            font-family: 'Roboto', sans-serif !important;
+        }
+    </style>
+</head>
+
+<body>
+    <h3>Gõ tiếng việt ở đây:</h3>
+    <div class="paper">
+        <div class="paper-content tiengviet">
+            <textarea autofocus id="textInput">Xin_chào!&#10;Gõ thử tiếng_Việt ở đây.</textarea>
+        </div>
+    </div>
+    <h3 style="margin-top: 2em;">Tiezngvieqth ở đây:</h3>
+    <div class="paper">
+        <div class="paper-content">
+            <textarea readonly id="textOutput"></textarea>
+        </div>
+    </div>
+    <script>
+
+        class TiezngVieqt {
+            constructor() {
+                this.cache = {};
+
+                this.kiTuPhuAm = [
+                    "q", "w", "r", "t", "p",
+                    "s", "d", "đ", "f", "g", "h", "k", "l",
+                    "z", "x", "c", "v", "b", "n", "m"
+                ];
+
+                this.dauThanhData = {
+                    "d": "àằầìùừèềòồờỳ",
+                    "z": "áắấíúứéếóốớý",
+                    "s": "ảẳẩỉủửẻểỏổởỷ",
+                    "b": "ãẵẫĩũữẽễõỗỡỹ",
+                    "q": "ạặậịụựẹệọộợỵ"
+                };
+
+                this.khongDauthanhData = {
+                    "àằầìùừèềòồờỳ": "aăâiuưeêoôơy",
+                    "áắấíúứéếóốớý": "aăâiuưeêoôơy",
+                    "ảẳẩỉủửẻểỏổởỷ": "aăâiuưeêoôơy",
+                    "ãẵẫĩũữẽễõỗỡỹ": "aăâiuưeêoôơy",
+                    "ạặậịụựẹệọộợỵ": "aăâiuưeêoôơy"
+                };
+
+                this.phuAmDauMap = {
+                    "gh": "g",
+                    "ngh": "ng",
+                    "gi": "j",
+                    "d": "z",
+                    "đ": "d",
+                    "ch": "c",
+                    "ph": "f",
+                    "c": "k",
+                    "q": "k"
+                };
+
+                this.phuAmCuoiMap = {
+                    "ch": "x",
+                    "n": "l",
+                    "t": "th",
+                    "nh": "ng"
+                };
+
+                this.phuAmCuoiTac = ['x', 'th', 'c', 'p'];
+
+                this.nguyenAmMap = {
+                    "ă": "ar",
+                    "â": "ei",
+                    "e": "ae",
+                    "ê": "e",
+                    "y": "i",
+                    "ô": "ow",
+                    "ơ": "or",
+                    "ư": "ur",
+                    "âu": "ou",
+                    "ây": "ei",
+                    "êu": "eu",
+                    "yê": "ie",
+                    "iê": "ie",
+                    "oă": "oar",
+                    "ôi": "oiw",
+                    "ơi": "oir",
+                    "ôô": "oow",
+                    "uă": "oar",
+                    "uâ": "uei",
+                    "ưa": "uar",
+                    "uê": "ue",
+                    "ưi": "uir",
+                    "uô": "uow",
+                    "uơ": "uor",
+                    "ươ": "ua",
+                    "ưu": "uu",
+                    "uy": "ui",
+                    "iêu": "ieu",
+                    "yêu": "ieu",
+                    "uây": "uei",
+                    "uôi": "uoi",
+                    "ươi": "uai",
+                    "ươu": "uou",
+                    "uya": "uia",
+                    "uyê": "uie",
+                    "uyu": "uiu"
+                };
+
+                this.dauThanhMap = {};
+                for (const [dauThanh, mangNguyenAm] of Object.entries(this.dauThanhData)) {
+                    for (const c of mangNguyenAm) {
+                        this.dauThanhMap[c] = dauThanh;
+                    }
+                }
+
+                this.khongDauthanhMap = {};
+                for (const [coDau, khongDau] of Object.entries(this.khongDauthanhData)) {
+                    for (let i = 0; i < coDau.length; i++) {
+                        this.khongDauthanhMap[coDau[i]] = khongDau[i];
+                    }
+                }
+            }
+
+            convert(sentence) {
+                const words = this.splitWords(sentence);
+                const convertedWords = words.map(word => {
+                    if (word.includes("_")) {
+                        const subWords = word.split("_");
+                        const ret = this.connectWord(subWords.map(subWord => this.convertWord(subWord)));
+                        return this.applyCase(word, ret);
+                    } else {
+                        const ret = this.convertWord(word);
+                        return this.applyCase(word, ret);
+                    }
+                });
+
+                return convertedWords.join("");
+            }
+
+            convertWord(word) {
+                word = word.toLowerCase();
+                if (this.cache[word]) {
+                    return this.cache[word];
+                }
+
+                let ret = "";
+                let phuAmDau = "";
+                let nguyenAm = "";
+                let dauThanh = "";
+                let phuAmCuoi = "";
+
+                try {
+                    for (let char of word) {
+                        if (this.kiTuPhuAm.includes(char)) {
+                            if (!nguyenAm) {
+                                phuAmDau += char;
+                            } else {
+                                phuAmCuoi += char;
+                            }
+                        } else {
+                            if (this.dauThanhMap[char]) {
+                                dauThanh = this.dauThanhMap[char];
+                                char = this.khongDauthanhMap[char];
+                            }
+                            nguyenAm += char;
+                        }
+                    }
+
+                    // Preprocess
+                    if (phuAmDau === "g" && nguyenAm.startsWith("i")) {
+                        phuAmDau = "gi";
+                        if (nguyenAm.length > 1) {
+                            nguyenAm = nguyenAm.slice(1);
+                        }
+                    } else if (nguyenAm.length > 1) {
+                        if (phuAmDau === "q" && ["ua", "ue"].includes(nguyenAm.slice(0, 2))) {
+                            nguyenAm = "o" + nguyenAm.slice(1);
+                        }
+                    } else if (nguyenAm.endsWith("a") && phuAmCuoi === "nh") {
+                        nguyenAm += "i";
+                        phuAmCuoi = "l";
+                    }
+
+                    // Process
+                    const convertedPhuAmDau = this.phuAmDauMap[phuAmDau] || phuAmDau;
+                    const convertedNguyenAm = this.nguyenAmMap[nguyenAm] || nguyenAm;
+                    const convertedPhuAmCuoi = this.phuAmCuoiMap[phuAmCuoi] || phuAmCuoi;
+
+                    // Postprocess
+                    if (nguyenAm === "uy" && phuAmCuoi === "") {
+                        ret = convertedPhuAmDau + "uy" + dauThanh;
+                    } else if (this.phuAmCuoiTac.includes(convertedPhuAmCuoi) && dauThanh === "z") {
+                        ret = convertedPhuAmDau + convertedNguyenAm + convertedPhuAmCuoi;
+                    } else {
+                        ret = convertedPhuAmDau + convertedNguyenAm + dauThanh + convertedPhuAmCuoi;
+                    }
+                } catch (exc) {
+                    console.error(`Error when converting '${word}'. Error ${exc}`);
+                    ret = word;
+                }
+
+                this.cache[word] = ret;
+                return ret;
+            }
+
+            connectWord(subWords) {
+                let ret = subWords[0];
+                for (const word of subWords.slice(1)) {
+                    const prefix = ['a', 'i', 'u', 'e', 'o'].includes(word[0]) ? 'y' : '';
+                    ret += prefix + word;
+                }
+                return ret;
+            }
+
+            splitWords(text) {
+                let words = [];
+                let currentWord = "";
+                let previousIsAlpha = false;
+
+                for (let c of text) {
+                    // Using \p{L} to match any kind of letter from any language
+                    let currentIsAlpha = /\p{L}/u.test(c) || c === '_';
+                    if (currentIsAlpha === previousIsAlpha) {
+                        currentWord += c;
+                    } else {
+                        if (currentWord) {
+                            words.push(currentWord);
+                        }
+                        currentWord = c;
+                    }
+                    previousIsAlpha = currentIsAlpha;
+                }
+                if (currentWord) {
+                    words.push(currentWord);
+                }
+
+                return words;
+            }
+
+            applyCase(original, converted) {
+                if (original === original.toUpperCase()) {
+                    return converted.toUpperCase();
+                } else if (original[0] === original[0].toUpperCase()) {
+                    return converted.charAt(0).toUpperCase() + converted.slice(1);
+                }
+                return converted;
+            }
+        }
+
+
+        const tiezngVieqt = new TiezngVieqt();
+        const textInput = document.getElementById("textInput");
+        const textOutput = document.getElementById("textOutput");
+        textOutput.value = tiezngVieqt.convert(textInput.value)
+        
+        textInput.addEventListener('keyup', () => {
+            textOutput.value = tiezngVieqt.convert(textInput.value)
+        })
+    </script>
+</body>
+
+</html>
