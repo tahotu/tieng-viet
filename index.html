@@ -254,16 +254,21 @@
                     }
 
                     // Preprocess
+
+                    // Phu am dau
                     if (phuAmDau === "g" && nguyenAm.startsWith("i")) {
                         phuAmDau = "gi";
                         if (nguyenAm.length > 1) {
                             nguyenAm = nguyenAm.slice(1);
                         }
-                    } else if (nguyenAm.length > 1) {
-                        if (phuAmDau === "q" && ["ua", "ue"].includes(nguyenAm.slice(0, 2))) {
+                    } else if (phuAmDau === "q" && nguyenAm.length > 1) {
+                        if (["ua", "ue"].includes(nguyenAm.slice(0, 2))) {
                             nguyenAm = "o" + nguyenAm.slice(1);
                         }
-                    } else if (nguyenAm.endsWith("a") && phuAmCuoi === "nh") {
+                    }
+
+                    // Phu am cuoi
+                    if (phuAmCuoi === "nh" && nguyenAm.endsWith("a")) {
                         nguyenAm += "i";
                         phuAmCuoi = "l";
                     }
