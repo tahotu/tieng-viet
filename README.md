@@ -13,11 +13,11 @@ Ví dụ:
 
 > Đây là cách viết khác cho tiếng Việt
 
-Dei lad kax vieth khac co tiezngvieqth
+Dei lad kax vieth khac co tiezngviefth
 
 > Hôm qua tôi đi du thuyền ở Hạ Long, Quảng Ninh
 
-Howmkoa toiw di zuthuiedl ors Haqlong, Koasngning
+Howmkoa toiw di zuthuiedl ors Haflong, Koasngning
 
 ## Ví dụ
 
@@ -27,15 +27,15 @@ Howmkoa toiw di zuthuiedl ors Haqlong, Koasngning
 tấm_lòng đau như bị đâm, vẫn lấy cái sự chưa thể ăn thịt nằm da,
 nuốt gan uống máu của chúng làm tức.
 
-Ta thuadng thid toirz buarb kuel arl, juarb dem vowb goiwz, nuacmarth tradl xuowzng deid maep, 
-teizmlodng dau nhur biq deim, veibl leiz kaiz surq cuar thes arl thiqth nardm za, 
+Ta thuadng thid toirz buarb kuel arl, juarb dem vowb goiwz, nuacmarth tradl xuowzng deid maep,
+teizmlodng dau nhur bif deim, veibl leiz kaiz surf cuar thes arl thifth nardm za,
 nuowth gal uowzng mauz kuas cuzng ladm turc.
 
 > Dẫu cho một trăm cái thân của ta phải đem đốt ở đồng_cỏ,
 một nghìn cái thân của ta phải đem bọc vào da ngựa, ta cũng vui_lòng .
 
-Zoub co mowqth trarm kaiz theil kuas ta fais daem dowth ors dowdngkos,
-mowqth ngidl kaiz theil kuas ta fais daem boqc vaod za nguarq, ta kubng vuilodng.
+Zoub ko mowqth trarm kaiz theil kuas ta fais zaem zowth ors zoowdngks,
+mowqth ngidl kaiz theil kuas ta fais zaem boqc vaod za nguarq, ta kubng vuioldng.
 
 > Các ngươi lâu_nay ở dưới cửa ta cầm_giữ binh_quyền, thiếu áo thì mặc áo cho,
 thiếu ăn thì sẻ cơm đỡ, quan nhỏ thì cho lên chức, bổng ít cho thêm lương,
@@ -43,36 +43,36 @@ thiếu ăn thì sẻ cơm đỡ, quan nhỏ thì cho lên chức, bổng ít ch
 những khi trận_mạc, sự sống_thác thầy chung với trò, những lúc mừng_khao,
 tiếng vui cười ai cũng như nấy.
 
-Kac nguai lounay ors zuaiz kuars ta keidmjurb bingkuiedl, thieuz aoz thid marqc aoz co, 
-thieuz arl thid saes korm dorb, koal nhos thid co lel curc, bowsng ith co them luang, 
-di thuys keip thuiedl, di bowq keip nguarq, 
-nhurbng khi treiqlmaqc, surq sowzngthac theid cung voirz trod, nhurbng luc murdngkhao, 
+Kac nguai lounay ors zuaiz kuars ta keidmjurb bingkuiedl, thieuz aoz thid marfc aoz co,
+thieuz arl thid saes korm dorb, koal nhos thid co lel curc, bowsng ith co them luang,
+di thuys keip thuiedl, di bowf keip nguarf,
+nhurbng khi treiflmafc, surf sowzngthac theid cung voirz trod, nhurbng luc murdngkhao,
 tiezng vui kuaid ai kubng nhur neiz.
 
 > So với Công_Kiên làm chức thiên_lý, Ngột_Ngại ở ngôi phó_nhị, có khác gì đâu.
 
-So voirz Kowngkiel ladm curc thielliz, Ngowqthngaiq ors ngoiw foznhiq, koz khac jid dou.
+So voirz Kowngkiel ladm curc thielliz, Ngowfthngaif ors ngoiw foznhif, koz khac jid dou.
 
 
 > Thế_mà các ngươi thấy chủ bị nhục chẳng lấy làm lo,
 gặp nước bị dơ chẳng lấy làm thẹn, làm tướng nhà_nước phải hầu mấy đứa chum_mường,
 mà không có lòng căm_hờn, nghe khúc_nhạc thờ đem thết một tên ngụy_sứ, mà không có_vẻ tức_giận;
 
-Thezmad kac nguai theiz cus biq nhuqc carsng leiz ladm lo,
-garqp nuac biq zor carsng leiz ladm thaeql, ladm tuazng nhadnuac fais houd meiz duarz cummuadng,
-mad khowng koz lodng karmhordl, ngae khucnhaqc thord daem theth mowqth tel nguyqsurz, mad khowng kozvaes turcjeiql;
+Thezmad kac nguai theiz cus bif nhufc carsng leiz ladm lo,
+garfp nuac bif zor carsng leiz ladm thaefl, ladm tuazng nhadnuac fais houd meiz duarz cummuadng,
+mad khowng koz lodng karmhordl, ngae khucnhafc thord daem theth mowfth tel nguyfsurz, mad khowng kozvaes turcjeifl;
 
 > kẻ thì chọi gà cho thích, kẻ thì đánh_bạc mua_vui, có người chỉ chăm vườn_ruộng, cốt nuôi được nhà;
 có người chỉ mến vợ_con, lấy mình làm trọng; cũng có kẻ chỉ lo làm giàu làm có,
 
-kaes thid coiq gad co thix, kaes thid daizlbaqc muavui, koz nguaid cis carm vuadlruowqng, kowth nuoi duaqc nhad; 
-koz nguaid cis mezl vorqkol, leiz midng ladm troqng; kubng koz kaes cis lo ladm jaud ladm koz,
+kaes thid coif gad co thix, kaes thid daizlbafc muavui, koz nguaid cis carm vuadlruowfng, kowth nuoi duafc nhad;
+koz nguaid cis mezl vorfkol, leiz midng ladm trofng; kubng koz kaes cis lo ladm jaud ladm koz,
 
 > việc quân_quốc chẳng thèm đoái_hoài, cũng có người chỉ ham về săn_bắn mà quên việc binh,
 hoặc là đam mùi rượu ngọt, hoặc là mê tiếng hát hay.
 
-vieqc kueilkuowc carsng thaedm doaizhoaid, kubng koz nguaid cis ham ved sarlbarzl mad kuel vieqc bing,
-hoarqc lad dam muid ruouq ngoqth, hoarqc lad me tiezng hath hay.
+viefc kueilkuowc carsng thaedm doaizhoaid, kubng koz nguaid cis ham ved sarlbarzl mad kuel viefc bing,
+hoarfc lad dam muid ruouf ngofth, hoarfc lad me tiezng hath hay.
 
 ### Các ví dụ khác
 
@@ -80,9 +80,9 @@ hoarqc lad dam muid ruouq ngoqth, hoarqc lad me tiezng hath hay.
 > 
 > Độc lập tự do hạnh phúc
 
-Kowqnghoad Xabhoiwq Cusngiab Vieqtnam
+Kowfnghoad xabhoiwf cusngiab Viefthnam
 
-Dowqcleiqp turqzo haiqlfuc
+Dowfcleifp turfzo haiflfuc
 
 ## Quy tắc
 
@@ -207,7 +207,7 @@ Mai an  → Maiyal
 | á (sắc) | z | cá → kaz, chính → cizng |
 | ả (hỏi) | s | tả → tas, chảnh → caisn |
 | ã (ngã) | b | mã → mab, huyễn → huiebn |
-| ạ (nặng) | q | cộng → kowqng, thạch → thaqx |
+| ạ (nặng) | f | cộng → kowfng, thạch → thafx |
 
 
 ### 4. Một số trường hợp cần chú ý
