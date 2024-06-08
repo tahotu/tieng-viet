@@ -96,10 +96,17 @@
     <h3>Gõ tiếng việt ở đây:</h3>
     <div class="paper">
         <div class="paper-content tiengviet">
-            <textarea autofocus id="textInput">Xin_chào!&#10;Gõ thử tiếng_Việt ở đây.</textarea>
+            <textarea autofocus id="textInput">Xin chào!&#10;Gõ thử tiếng Việt ở đây.</textarea>
         </div>
     </div>
-    <h3 style="margin-top: 2em;">Tiezngvieqth ở đây: (<a href="https://github.com/tahotu/tieng-viet?tab=readme-ov-file#tiezngvieqth" target="_blank">Quy tắc ở đây</a> ) </h3>
+    <h3 style="margin-top: 2em;">Tiezngviefth ở đây: (<a
+            href="https://github.com/tahotu/tieng-viet?tab=readme-ov-file#tiezngvieqth" target="_blank">Quy tắc ở
+            đây</a> ) 
+    </h3>
+    <div>
+        <input type="checkbox" id="linkWorkCheck" name="linkWorkCheck" checked />
+        <label for="linkWorkCheck">Viết liền từ phức</label>
+    </div>
     <div class="paper">
         <div class="paper-content">
             <textarea readonly id="textOutput"></textarea>
@@ -107,7 +114,29 @@
     </div>
     <script>
 
-        class TiezngVieqt {
+        let WORD_DICT = new Set();
+        let dictUrl = "https://raw.githubusercontent.com/undertheseanlp/dictionary/master/dictionary/words.txt";
+
+        fetch(dictUrl)
+            .then(response => response.text())
+            .then((response) => {
+                response
+                    .split("\n")
+                    .forEach(line => {
+                        try {
+                            let word = JSON.parse(line).text.toLowerCase();
+                            if (word.includes(" ")) {
+                                WORD_DICT.add(word);
+                            }
+                        } catch (e) { }
+                    });
+                init();
+
+            })
+            .catch(err => console.log(err));
+        
+
+        class TiezngViefth {
             constructor() {
                 this.cache = {};
 
@@ -122,7 +151,7 @@
                     "z": "áắấíúứéếóốớý",
                     "s": "ảẳẩỉủửẻểỏổởỷ",
                     "b": "ãẵẫĩũữẽễõỗỡỹ",
-                    "q": "ạặậịụựẹệọộợỵ"
+                    "f": "ạặậịụựẹệọộợỵ"
                 };
 
                 this.khongDauthanhData = {
@@ -208,7 +237,10 @@
                 }
             }
 
-            convert(sentence) {
+            convert(sentence, linkWord) {
+                if (linkWord){
+                    sentence = this.linkWords(sentence);
+                }
                 const words = this.splitWords(sentence);
                 const convertedWords = words.map(word => {
                     if (word.includes("_")) {
@@ -337,17 +369,47 @@
                 }
                 return converted;
             }
+
+            linkWords(text) {
+                const words = this.splitWords(text);
+                const linkedWords = [];
+                let i = 0;
+                while (i < words.length) {
+                    let linkWord = words[i];
+                    let checkWord = `${words[i]}${words[i + 1]}${words[i + 2]}`;
+                    if (WORD_DICT.has(checkWord.toLowerCase())) {
+                        linkWord = checkWord;
+                        i += 2;
+                        // console.log("Multi:", linkWord);
+                        linkWord = linkWord.replace(' ', '_')
+                    } else {
+                        // console.log("Single:", linkWord);
+                    }
+                    linkedWords.push(linkWord)
+                    i++;
+                }
+
+                return linkedWords.join("")
+            }
         }
 
 
-        const tiezngVieqt = new TiezngVieqt();
+        const tiezngVieqt = new TiezngViefth();
         const textInput = document.getElementById("textInput");
         const textOutput = document.getElementById("textOutput");
+        const linkWorkCheck = document.getElementById("linkWorkCheck");
         textOutput.value = tiezngVieqt.convert(textInput.value)
-        
+
         textInput.addEventListener('keyup', () => {
-            textOutput.value = tiezngVieqt.convert(textInput.value)
+            textOutput.value = tiezngVieqt.convert(textInput.value, linkWorkCheck.checked);
         })
+        linkWorkCheck.addEventListener('change', () => {
+            textOutput.value = tiezngVieqt.convert(textInput.value, linkWorkCheck.checked);
+        })
+
+    function init(){
+        textOutput.value = tiezngVieqt.convert(textInput.value, linkWorkCheck.checked);
+    }
     </script>
 </body>
 
