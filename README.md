@@ -1,4 +1,4 @@
-# Tiezngvieqth
+# Tiezngviefth
 Cách viết khác cho tiếng Việt (chỉ để giải trí)
 
 Dùng thử tại: https://tahotu.github.io/tieng-viet/
