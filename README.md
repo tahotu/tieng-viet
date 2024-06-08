@@ -32,10 +32,10 @@ teizmlodng dau nhur bif deim, veibl leiz kaiz surf cuar thes arl thifth nardm za
 nuowth gal uowzng mauz kuas cuzng ladm turc.
 
 > Dẫu cho một trăm cái thân của ta phải đem đốt ở đồng_cỏ,
-một nghìn cái thân của ta phải đem bọc vào da ngựa, ta cũng vui_lòng .
+một nghìn cái thân của ta phải đem bọc vào da ngựa, ta cũng vui_lòng.
 
-Zoub ko mowqth trarm kaiz theil kuas ta fais zaem zowth ors zoowdngks,
-mowqth ngidl kaiz theil kuas ta fais zaem boqc vaod za nguarq, ta kubng vuioldng.
+Zoub co mowfth trarm kaiz theil kuas ta fais daem dowth ors dowdngkos,
+mowfth ngidl kaiz theil kuas ta fais daem bofc vaod za nguarf, ta kubng vuilodng.
 
 > Các ngươi lâu_nay ở dưới cửa ta cầm_giữ binh_quyền, thiếu áo thì mặc áo cho,
 thiếu ăn thì sẻ cơm đỡ, quan nhỏ thì cho lên chức, bổng ít cho thêm lương,
