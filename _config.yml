@@ -1,0 +1,29 @@
+layout: default
+title: Tiếng Việt mới, tiếng việt không dấu.
+description: Cách viết tiếng Việt không dấu mới, viết liền không dấu tiếng Việt, gõ tiếng Việt máy tính.
+lang: vi_VN
+plugins:
+ - jekyll-seo-tag
+ 
+---
+
+## Tiezngviefth
+Cách viết khác cho tiếng Việt (chỉ để giải trí)
+
+Dùng thử tại: https://tahotu.github.io/tieng-viet/
+
+## Giới thiệu
+
+Cách viết tiếng Việt:
+ - Chỉ dùng các chữ cái trên bàn phím qwerty tiêu chuẩn
+ - Có thể viết liền những từ phức
+
+Ví dụ:
+
+> Đây là cách viết khác cho tiếng Việt
+
+Dei lad kax vieth khac co tiezngviefth
+
+> Hôm qua tôi đi du thuyền ở Hạ Long, Quảng Ninh
+
+Howmkoa toiw di zuthuiedl ors Haflong, Koasngning
