@@ -80,7 +80,7 @@ hoarfc lad dam muid ruouf ngofth, hoarfc lad me tiezng hat hay.
 > 
 > Độc lập tự do hạnh phúc
 
-Kowfnghoad xabhoiwf cusngiab Viefthnam
+Kowfnghoad xabhoiwf cusngiab Vieftnam
 
 Dowfcleifp turfzo haiflfuc
 
