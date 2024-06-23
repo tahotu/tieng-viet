@@ -13,7 +13,7 @@ Ví dụ:
 
 > Đây là cách viết khác cho tiếng Việt
 
-Dei lad kax vieth khac co tiezngviefth
+Dei lad kax viet khac co tiezngviefth
 
 > Hôm qua tôi đi du thuyền ở Hạ Long, Quảng Ninh
 
@@ -27,15 +27,15 @@ Howmkoa toiw di zuthuiedl ors Haflong, Koasngning
 tấm_lòng đau như bị đâm, vẫn lấy cái sự chưa thể ăn thịt nằm da,
 nuốt gan uống máu của chúng làm tức.
 
-Ta thuadng thid toirz buarb kuel arl, juarb dem vowb goiwz, nuacmarth tradl xuowzng deid maep,
-teizmlodng dau nhur bif deim, veibl leiz kaiz surf cuar thes arl thifth nardm za,
-nuowth gal uowzng mauz kuas cuzng ladm turc.
+Ta thuadng thid toirz buarb kuel arl, juarb dem vowb goiwz, nuacmart tradl xuowzng deid maep,
+teizmlodng dau nhur bif deim, veibl leiz kaiz surf cuar thes arl thift nardm za,
+nuowt gal uowzng mauz kuas cuzng ladm turc.
 
 > Dẫu cho một trăm cái thân của ta phải đem đốt ở đồng_cỏ,
 một nghìn cái thân của ta phải đem bọc vào da ngựa, ta cũng vui_lòng.
 
-Zoub co mowfth trarm kaiz theil kuas ta fais daem dowth ors dowdngkos,
-mowfth ngidl kaiz theil kuas ta fais daem bofc vaod za nguarf, ta kubng vuilodng.
+Zoub co mowft trarm kaiz theil kuas ta fais daem dowt ors dowdngkos,
+mowft ngidl kaiz theil kuas ta fais daem bofc vaod za nguarf, ta kubng vuilodng.
 
 > Các ngươi lâu_nay ở dưới cửa ta cầm_giữ binh_quyền, thiếu áo thì mặc áo cho,
 thiếu ăn thì sẻ cơm đỡ, quan nhỏ thì cho lên chức, bổng ít cho thêm lương,
@@ -44,7 +44,7 @@ những khi trận_mạc, sự sống_thác thầy chung với trò, những lú
 tiếng vui cười ai cũng như nấy.
 
 Kac nguai lounay ors zuaiz kuars ta keidmjurb bingkuiedl, thieuz aoz thid marfc aoz co,
-thieuz arl thid saes korm dorb, koal nhos thid co lel curc, bowsng ith co them luang,
+thieuz arl thid saes korm dorb, koal nhos thid co lel curc, bowsng it co them luang,
 di thuys keip thuiedl, di bowf keip nguarf,
 nhurbng khi treiflmafc, surf sowzngthac theid cung voirz trod, nhurbng luc murdngkhao,
 tiezng vui kuaid ai kubng nhur neiz.
@@ -60,19 +60,19 @@ mà không có lòng căm_hờn, nghe khúc_nhạc thờ đem thết một tên 
 
 Thezmad kac nguai theiz cus bif nhufc carsng leiz ladm lo,
 garfp nuac bif zor carsng leiz ladm thaefl, ladm tuazng nhadnuac fais houd meiz duarz cummuadng,
-mad khowng koz lodng karmhordl, ngae khucnhafc thord daem theth mowfth tel nguyfsurz, mad khowng kozvaes turcjeifl;
+mad khowng koz lodng karmhordl, ngae khucnhafc thord daem thet mowft tel nguyfsurz, mad khowng kozvaes turcjeifl;
 
 > kẻ thì chọi gà cho thích, kẻ thì đánh_bạc mua_vui, có người chỉ chăm vườn_ruộng, cốt nuôi được nhà;
 có người chỉ mến vợ_con, lấy mình làm trọng; cũng có kẻ chỉ lo làm giàu làm có,
 
-kaes thid coif gad co thix, kaes thid daizlbafc muavui, koz nguaid cis carm vuadlruowfng, kowth nuoi duafc nhad;
+kaes thid coif gad co thix, kaes thid daizlbafc muavui, koz nguaid cis carm vuadlruowfng, kowt nuoi duafc nhad;
 koz nguaid cis mezl vorfkol, leiz midng ladm trofng; kubng koz kaes cis lo ladm jaud ladm koz,
 
 > việc quân_quốc chẳng thèm đoái_hoài, cũng có người chỉ ham về săn_bắn mà quên việc binh,
 hoặc là đam mùi rượu ngọt, hoặc là mê tiếng hát hay.
 
 viefc kueilkuowc carsng thaedm doaizhoaid, kubng koz nguaid cis ham ved sarlbarzl mad kuel viefc bing,
-hoarfc lad dam muid ruouf ngofth, hoarfc lad me tiezng hath hay.
+hoarfc lad dam muid ruouf ngofth, hoarfc lad me tiezng hat hay.
 
 ### Các ví dụ khác
 
