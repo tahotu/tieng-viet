@@ -1,4 +1,4 @@
-# Tiezngviefth
+# Tiezngvieft
 Cách viết khác cho tiếng Việt (chỉ để giải trí)
 
 Dùng thử tại: https://tahotu.github.io/tieng-viet/
@@ -13,7 +13,7 @@ Ví dụ:
 
 > Đây là cách viết khác cho tiếng Việt
 
-Dei lad kax viet khac co tiezngviefth
+Dei lad kax viet khac co tiezngvieft
 
 > Hôm qua tôi đi du thuyền ở Hạ Long, Quảng Ninh
 
