@@ -21,7 +21,7 @@ Howmkoa toiw di zuthuiedl ors Haflong, Koasngning
 
 ## Ví dụ
 
-### Trích Hịch tướng sĩ - Trix Hiqx tuazngsib
+### Trích Hịch tướng sĩ - Trix Hifx tuazngsib
 
 > Ta thường thì tới bữa quên ăn, giữa đêm vỗ gối, nước_mắt tràn xuống đầy mép,
 tấm_lòng đau như bị đâm, vẫn lấy cái sự chưa thể ăn thịt nằm da,
