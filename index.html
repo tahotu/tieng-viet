@@ -99,7 +99,7 @@
             <textarea autofocus id="textInput">Xin chào!&#10;Gõ thử tiếng Việt ở đây.</textarea>
         </div>
     </div>
-    <h3 style="margin-top: 2em;">Tiezngviefth ở đây: (<a
+    <h3 style="margin-top: 2em;">Tiezngvieft ở đây: (<a
             href="https://github.com/tahotu/tieng-viet?tab=readme-ov-file#tiezngvieqth" target="_blank">Quy tắc ở
             đây</a> ) 
     </h3>
@@ -177,7 +177,6 @@
                 this.phuAmCuoiMap = {
                     "ch": "x",
                     "n": "l",
-                    "t": "th",
                     "nh": "ng"
                 };
 
@@ -330,8 +329,9 @@
             connectWord(subWords) {
                 let ret = subWords[0];
                 for (const word of subWords.slice(1)) {
-                    const prefix = ['a', 'i', 'u', 'e', 'o'].includes(word[0]) ? 'y' : '';
-                    ret += prefix + word;
+                    const prefix1 = ['h', 'r'].includes(word[0]) && subWords[0].endsWith('t') ? 'h' : '';
+                    const prefix2 = ['a', 'i', 'u', 'e', 'o'].includes(word[0]) ? 'y' : '';
+                    ret += prefix1 + prefix2 + word;
                 }
                 return ret;
             }
