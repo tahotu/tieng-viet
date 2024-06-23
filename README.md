@@ -107,7 +107,7 @@ Dowfcleifp turfzo haiflfuc
 |----|--|--| 
 | ch | x | sách  → sax |
 | n | l | san  → sal |
-| t | th | sát  → sath |
+| t | th | * _Nếu phụ âm đầu của tiếng tiếp theo trong từ phức bắt đầu bằng "h", "r"_ <br> kết hôn  → kethhown, sốt rét -> sowthraet |
 | nh | ng, il | xinh  → xing, xanh  → xail |
 
 - Các từ phức **viết liền không dấu cách**
