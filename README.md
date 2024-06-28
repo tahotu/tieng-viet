@@ -97,7 +97,7 @@ Mai an  → Maiyal
 | oo | oo | - |
 | ôô | oow | ### |
 | ua | ua | - |
-| uă | oar | quăn  → koarl |
+| ue | uae | quen  → quaen |
 | uâ | uei | xuân  → xuein |
 | ưa | uar | trưa  → truar |
 | uê | ue | xuê  → xue |
