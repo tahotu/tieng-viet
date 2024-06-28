@@ -17,7 +17,7 @@ Dei lad kax viet khac co tiezngvieft
 
 > Hôm qua tôi đi du thuyền ở Hạ Long, Quảng Ninh
 
-Howmqua toiw di zuthuiedn ors Haflong, Quasngning
+Howmqua toiw di zuthuiedn ors Haf Long, Quasngning
 
 
 
@@ -51,7 +51,7 @@ Howmqua toiw di zuthuiedn ors Haflong, Quasngning
   
 - Nguyên âm khi đứng **đầu** ở tiếng thứ 2 trở đi trong từ phức phải có phụ âm câm "y"
 ```
-Mai an  → Maiyal
+Mai an  → Maiyan
 ```
 
 
@@ -170,15 +170,15 @@ Mai an  → Maiyal
 tấm_lòng đau như bị đâm, vẫn lấy cái sự chưa thể ăn thịt nằm da,
 nuốt gan uống máu của chúng làm tức.
 
-Ta thuadng thid toirz buarb kuel arl, juarb dem vowb goiwz, nuacmart tradl xuowzng deid maep,
-teizmlodng dau jnur bif deim, veibl leiz kaiz surf cuar thes arl thift nardm za,
-nuowt gal uowzng mauz kuas cuzng ladm turc.
+Ta thuadng thid toirz buarb quen arn, juarb dem vowb goiwz, nuacmart tradn xuowzng deid maep,
+teizmlodng dau jnur bif deim, veibn leiz kaiz surf cuar thes arnthift nardm za,
+nuowt gan uowzng mauz kuas cuzng ladm turc.
 
 > Dẫu cho một trăm cái thân của ta phải đem đốt ở đồng_cỏ,
 một nghìn cái thân của ta phải đem bọc vào da ngựa, ta cũng vui_lòng.
 
-Zoub co mowft trarm kaiz theil kuas ta fais daem dowt ors dowdngkos,
-mowft ngidl kaiz theil kuas ta fais daem bofc vaod za nguarf, ta kubng vuilodng.
+Zoub co mowft trarm kaiz thein kuas ta fais daem dowt ors dowdngkos,
+mowft widn kaiz thein kuas ta fais daem bofc vaod za wuarf, ta kubng vuilodng.
 
 > Các ngươi lâu_nay ở dưới cửa ta cầm_giữ binh_quyền, thiếu áo thì mặc áo cho,
 thiếu ăn thì sẻ cơm đỡ, quan nhỏ thì cho lên chức, bổng ít cho thêm lương,
@@ -186,36 +186,36 @@ thiếu ăn thì sẻ cơm đỡ, quan nhỏ thì cho lên chức, bổng ít ch
 những khi trận_mạc, sự sống_thác thầy chung với trò, những lúc mừng_khao,
 tiếng vui cười ai cũng như nấy.
 
-Kac wuai lounay ors zuaiz kuars ta keidmjurb bingkuiedl, thieuz aoz thid marfc aoz co,
-thieuz arl thid saes korm dorb, koal nhos thid co lel curc, bowsng it co them luang,
-di thuys keip thuiedl, di bowf keip nguarf,
-nhurbng khi treiflmafc, surf sowzngthac theid cung voirz trod, nhurbng luc murdngkhao,
-tiezng vui kuaid ai kubng nhur neiz.
+Kac wuai lounay ors zuaiz kuars ta keidmjurb bingquiedn, thieuz aoz thid marfc aoz co,
+thieuz arn thid saes korm dorb, quan jnos thid co lencurc, bowsng it co them luang,
+di thuys keip thuiedn, dibowf keip wuarf,
+jnurbng khi treifnmafc, surf sowzngthac theid cung voirz trod, jnurbng luc murdngkhao,
+tiezng vuikuaid ai kubngjnur neiz.
 
 > So với Công_Kiên làm chức thiên_lý, Ngột_Ngại ở ngôi phó_nhị, có khác gì đâu.
 
-So voirz Kowngkiel ladm curc thielliz, Ngowfthngaif ors ngoiw foznhif, koz khac jid dou.
+Sovoirz Kowngkien ladm curc thienliz, Wowftwaif ors woiw fozjnif, kozkhac jid dou.
 
 
 > Thế_mà các ngươi thấy chủ bị nhục chẳng lấy làm lo,
 gặp nước bị dơ chẳng lấy làm thẹn, làm tướng nhà_nước phải hầu mấy đứa chum_mường,
 mà không có lòng căm_hờn, nghe khúc_nhạc thờ đem thết một tên ngụy_sứ, mà không có_vẻ tức_giận;
 
-Thezmad kac nguai theiz cus bif nhufc carsng leiz ladm lo,
-garfp nuac bif zor carsng leiz ladm thaefl, ladm tuazng nhadnuac fais houd meiz duarz cummuadng,
-mad khowng koz lodng karmhordl, ngae khucnhafc thord daem thet mowft tel nguyfsurz, mad khowng kozvaes turcjeifl;
+Thezmad kac wuai theiz cus bif jnufc carsng leizladm lo,
+garfp nuac bif zor carsng leizladm thaefn, ladm tuazng jnadnuac fais houd meiz duarz cummuadng,
+mad khowngkoz lodng karmhordn, wae khucjnafc thord daem thet mowft ten wuyfsurz, mad khowng kozvaes turcjeifn;
 
 > kẻ thì chọi gà cho thích, kẻ thì đánh_bạc mua_vui, có người chỉ chăm vườn_ruộng, cốt nuôi được nhà;
 có người chỉ mến vợ_con, lấy mình làm trọng; cũng có kẻ chỉ lo làm giàu làm có,
 
-kaes thid coif gad co thix, kaes thid daizlbafc muavui, koz nguaid cis carm vuadlruowfng, kowt nuoi duafc nhad;
-koz nguaid cis mezl vorfkol, leiz midng ladm trofng; kubng koz kaes cis lo ladm jaud ladm koz,
+kaes thid coifgad co thix, kaes thid daizlbafc muavui, kozwuaid cis carm vuadnruowfng, kowt nuoi duafc jnad;
+koz wuaid cis mezn vorfkon, leiz midng ladm trofng; kubng koz kaes cis lo ladmjaud ladm koz,
 
 > việc quân_quốc chẳng thèm đoái_hoài, cũng có người chỉ ham về săn_bắn mà quên việc binh,
 hoặc là đam mùi rượu ngọt, hoặc là mê tiếng hát hay.
 
-viefc kueilkuowc carsng thaedm doaizhoaid, kubng koz nguaid cis ham ved sarlbarzl mad kuel viefc bing,
-hoarfc lad dam muid ruouf ngofth, hoarfc lad me tiezng hat hay.
+viefc queinquowc carsng thaedm doaizhoaid, kubng kozwuaid cis ham ved sarnbarzn mad quen viefc bing,
+hoarfclad dam muid ruoufwoft, hoarfclad me tiezng hat hay.
 
 ### Các ví dụ khác
 
