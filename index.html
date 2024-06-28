@@ -164,19 +164,19 @@
 
                 this.phuAmDauMap = {
                     "gh": "g",
-                    "ngh": "ng",
+                    "ngh": "w",
+                    "ng": "w",
+                    "nh": "jn",
                     "gi": "j",
                     "d": "z",
                     "đ": "d",
                     "ch": "c",
                     "ph": "f",
                     "c": "k",
-                    "q": "k"
                 };
 
                 this.phuAmCuoiMap = {
                     "ch": "x",
-                    "n": "l",
                     "nh": "ng"
                 };
 
@@ -291,10 +291,6 @@
                         phuAmDau = "gi";
                         if (nguyenAm.length > 1) {
                             nguyenAm = nguyenAm.slice(1);
-                        }
-                    } else if (phuAmDau === "q" && nguyenAm.length > 1) {
-                        if (["ua", "ue"].includes(nguyenAm.slice(0, 2))) {
-                            nguyenAm = "o" + nguyenAm.slice(1);
                         }
                     }
 
