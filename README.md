@@ -17,7 +17,7 @@ Dei lad kax viet khac co tiezngvieft
 
 > Hôm qua tôi đi du thuyền ở Hạ Long, Quảng Ninh
 
-Howmkoa toiw di zuthuiedl ors Haflong, Koasngning
+Howmqua toiw di zuthuiedn ors Haflong, Quasngning
 
 
 
