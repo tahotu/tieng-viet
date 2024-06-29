@@ -4,112 +4,34 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tiezngvieft</title>
-    <style>
-        @import url(https://fonts.googleapis.com/css?family=Roboto);
-        @import url(https://fonts.googleapis.com/css?family=Handlee);
-
-        body {
-            margin: 40px 0 0;
-            background: #91D1D3;
-            font-family: 'Roboto', sans-serif;
-        }
-
-        .paper {
-            position: relative;
-            width: 90%;
-            max-width: 800px;
-            min-width: 400px;
-            height: 480px;
-            max-height: 40vh;
-            margin: 0 auto;
-            background: #fafafa;
-            border-radius: 10px;
-            box-shadow: 0 2px 8px rgba(0, 0, 0, .3);
-            overflow: hidden;
-        }
-
-        .paper:before {
-            content: '';
-            position: absolute;
-            top: 0;
-            bottom: 0;
-            left: 0;
-            width: 60px;
-            background: radial-gradient(#575450 6px, transparent 7px) repeat-y;
-            background-size: 34px 30px;
-            border-right: 3px solid #D44147;
-            box-sizing: border-box;
-        }
-
-        .paper-content {
-            position: absolute;
-            top: 21px;
-            right: 0;
-            bottom: 21px;
-            left: 60px;
-            background: linear-gradient(transparent, transparent 20px, #91D1D3 20px);
-            background-size: 21px 21px;
-        }
-
-        .paper-content textarea {
-            width: 100%;
-            max-width: 100%;
-            height: 100%;
-            max-height: 100%;
-            line-height: 21px;
-            padding: 0 10px;
-            border: 0;
-            outline: 0;
-            background: transparent;
-            color: mediumblue;
-            font-family: 'Handlee', cursive;
-            font-weight: bold;
-            font-size: 14px;
-            box-sizing: border-box;
-            position: relative;
-            top: 4px;
-            z-index: 1;
-        }
-
-        footer {
-            margin-top: 30px;
-            text-align: center;
-            font-size: 12px;
-            color: rgba(0, 0, 0, .6);
-        }
-
-        footer a {
-            color: rgba(255, 255, 255, .8);
-        }
-
-        h3.title {
-            font-family: 'Handlee', cursive;
-        }
-
-        .tiengviet textarea {
-            font-family: 'Roboto', sans-serif !important;
-        }
-    </style>
+    <link rel="stylesheet" type="text/css" href="styles.css" />
 </head>
 
 <body>
-    <h3>Gõ tiếng việt ở đây:</h3>
-    <div class="paper">
-        <div class="paper-content tiengviet">
-            <textarea autofocus id="textInput">Xin chào!&#10;Gõ thử tiếng Việt ở đây.</textarea>
+   
+    <div class="container">
+        <div class="area">
+            <div class="area-header">
+                <span class="title">Gõ tiếng việt ở đây:</span>
+            </div>
+            <div class="input-area">
+                <textarea autofocus id="textInput">Xin chào!&#10;Gõ thử tiếng Việt ở đây.</textarea>
+            </div>
         </div>
-    </div>
-    <h3 style="margin-top: 2em;">Tiezngvieft ở đây: (<a
-            href="https://github.com/tahotu/tieng-viet?tab=readme-ov-file#tiezngvieqth" target="_blank">Quy tắc ở
-            đây</a> ) 
-    </h3>
-    <div>
-        <input type="checkbox" id="linkWorkCheck" name="linkWorkCheck" checked />
-        <label for="linkWorkCheck">Viết liền từ phức</label>
-    </div>
-    <div class="paper">
-        <div class="paper-content">
-            <textarea readonly id="textOutput"></textarea>
+        <div class="area result-area">
+            <div class="area-header">
+                <span  class="title">Tiezngvieft ở đây: (<a
+                    href="https://github.com/tahotu/tieng-viet?tab=readme-ov-file#tiezngvieqth" target="_blank">Quy tắc ở
+                    đây</a> ) 
+                </span>
+                <span>
+                    <input type="checkbox" id="linkWorkCheck" name="linkWorkCheck" checked />
+                    <label for="linkWorkCheck">Viết liền từ phức</label>
+                </span>
+            </div>
+            <div class="result-area">
+                <textarea readonly id="textOutput"></textarea>
+            </div>
         </div>
     </div>
     <script>
@@ -136,7 +58,7 @@
             .catch(err => console.log(err));
         
 
-        class TiezngViefth {
+        class TiezngVieft {
             constructor() {
                 this.cache = {};
 
@@ -289,7 +211,7 @@
                     // Phu am dau
                     if (phuAmDau === "g" && nguyenAm.startsWith("i")) {
                         phuAmDau = "gi";
-                        if (nguyenAm.length > 1) {
+                        if (nguyenAm.length > 1 && nguyenAm[1] != 'ê') {
                             nguyenAm = nguyenAm.slice(1);
                         }
                     }
@@ -390,21 +312,21 @@
         }
 
 
-        const tiezngVieqt = new TiezngViefth();
+        const tiengViet = new TiezngVieft();
         const textInput = document.getElementById("textInput");
         const textOutput = document.getElementById("textOutput");
         const linkWorkCheck = document.getElementById("linkWorkCheck");
-        textOutput.value = tiezngVieqt.convert(textInput.value)
+        textOutput.value = tiengViet.convert(textInput.value)
 
         textInput.addEventListener('keyup', () => {
-            textOutput.value = tiezngVieqt.convert(textInput.value, linkWorkCheck.checked);
+            textOutput.value = tiengViet.convert(textInput.value, linkWorkCheck.checked);
         })
         linkWorkCheck.addEventListener('change', () => {
-            textOutput.value = tiezngVieqt.convert(textInput.value, linkWorkCheck.checked);
+            textOutput.value = tiengViet.convert(textInput.value, linkWorkCheck.checked);
         })
 
     function init(){
-        textOutput.value = tiezngVieqt.convert(textInput.value, linkWorkCheck.checked);
+        textOutput.value = tiengViet.convert(textInput.value, linkWorkCheck.checked);
     }
     </script>
 </body>
