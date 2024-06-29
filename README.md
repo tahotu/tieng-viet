@@ -219,10 +219,4 @@ hoarfclad dam muid ruoufwoft, hoarfclad me tiezng hat hay.
 
 ### Các ví dụ khác
 
-> Cộng hòa xã hội chủ nghĩa Việt Nam
-> 
-> Độc lập tự do hạnh phúc
-
-Kowfnghoad xabhoiwf cuswiab Vieftnam
-
-Dowfcleifp turfzo haiflfuc
+Xem: https://tahotu.github.io/tieng-viet/vizzuf/html/
