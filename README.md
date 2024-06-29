@@ -62,7 +62,7 @@ Mai an  → Maiyan
 | Gốc | Mới | ví dụ |
 |----|--|--| 
 | a | a | - |
-| ă | ar | săn  → sarl |
+| ă | ar | săn  → sarn |
 | â  | ei | sân  → sein |
 | e | ae | se  → sae |
 | ê | e | sê  → se |
@@ -87,10 +87,10 @@ Mai an  → Maiyan
 | eo | eo | - |
 | êu | eu | lêu  → leu |
 | ia | ia | - |
-| iê/yê | ie | yên  → iel |
+| iê/yê | ie | yên  → ien |
 | iu | iu | - |
 | oa | oa | - |
-| oă | oar | xoăn  → xoarl |
+| oă | oar | xoăn  → xoarn |
 | oi | oi | - |
 | ôi | oiw | xôi  → xoiw |
 | ơi | oir | xơi  → xoir |
@@ -127,7 +127,7 @@ Mai an  → Maiyan
 | ươi | uai | mươi  → muai |
 | ươu | uou | hươu  → huou |
 | uya | uia| khuya  → khuia |
-| uyê | uie | huyên  → huiel |
+| uyê | uie | huyên  → huien |
 | uyu | uiu | ### |
 
 
