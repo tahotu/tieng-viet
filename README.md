@@ -43,7 +43,7 @@ Homqua toi di zuthuiedn ors Haflong, Quasngning
 | Gốc | Mới | ví dụ |
 |----|--|--| 
 | ch | x | sách  → sax |
-| t | th | * _Nếu phụ âm đầu của tiếng tiếp theo trong từ phức bắt đầu bằng "h", "r"_ <br> kết hôn  → kethhown, sốt rét -> sowthraet |
+| t | th | * _Nếu phụ âm đầu của tiếng tiếp theo trong từ phức bắt đầu bằng "h", "r"_ <br> kết hôn  → kethhon, sốt rét -> sothraet |
 | nh | ng, in | xinh  → xing, xanh  → xain |
 
 - Các từ phức **viết liền không dấu cách**
