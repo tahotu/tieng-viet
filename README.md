@@ -143,7 +143,7 @@ Mai an  → Maiyan
 | á (sắc) | z | cá → kaz, chính → cizng |
 | ả (hỏi) | s | tả → tas, chảnh → caisn |
 | ã (ngã) | b | mã → mab, huyễn → huiebn |
-| ạ (nặng) | f | cộng → kowfng, thạch → thafx |
+| ạ (nặng) | f | cộng → kofng, thạch → thafx |
 
 
 ### 4. Một số trường hợp cần chú ý
