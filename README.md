@@ -17,7 +17,7 @@ Dei lad kax viet khac cow tiezngvieft
 
 > Hôm qua tôi đi du thuyền ở Hạ Long, Quảng Ninh
 
-Homqua toi di zuthuiedn ors Haflong, Quasngning
+Homqua toi di zuthuiedn ors Haflowng, Quasngning
 
 
 
