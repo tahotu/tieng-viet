@@ -5,7 +5,7 @@ Dùng thử tại: https://tahotu.github.io/tieng-viet/
 
 ## Giới thiệu
 
-Cách viết tiếng Việt:
+Cách viết tiếng Việt mới:
  - Chỉ dùng các chữ cái trên bàn phím qwerty tiêu chuẩn
    - → Không cần các bộ gõ tiếng Việt riêng
    - → Tránh các lỗi bộ gõ khi chơi game, hay các phần mềm xung đột với bộ gõ.
