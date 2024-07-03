@@ -10,7 +10,7 @@ Cách viết tiếng Việt:
    - → Không cần các bộ gõ tiếng Việt riêng
    - → Tránh các lỗi bộ gõ khi chơi game, hay các phần mềm xung đột với bộ gõ.
    - → Loại bỏ các dấu thanh, dấu phụ trong nguyên âm, giúp các mô hình AI dễ dàng nhận diện, xử lý hơn.
- - Có thể viết liền những từ phức
+ - Có thể viết liền những từ phức mà không nhầm lẫn về phát âm
    - → Dễ kiểm tra lỗi chính tả hơn.
    - → Chuẩn hoá các cụm từ tốt hơn.
    - → Dễ dàng Việt hóa những từ ngữ từ các ngôn ngữ đa âm tiết.
