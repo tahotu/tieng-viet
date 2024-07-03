@@ -7,8 +7,15 @@ Dùng thử tại: https://tahotu.github.io/tieng-viet/
 
 Cách viết tiếng Việt:
  - Chỉ dùng các chữ cái trên bàn phím qwerty tiêu chuẩn
+   - → Không cần các bộ gõ tiếng Việt riêng
+   - → Tránh các lỗi bộ gõ khi chơi game, hay các phần mềm xung đột với bộ gõ.
+   - → Loại bỏ các dấu thanh, dấu phụ trong nguyên âm, giúp các mô hình AI dễ dàng nhận diện, xử lý hơn.
  - Có thể viết liền những từ phức
-
+   - → Dễ kiểm tra lỗi chính tả hơn.
+   - → Chuẩn hoá các cụm từ tốt hơn.
+   - → Dễ dàng Việt hóa những từ ngữ từ các ngôn ngữ đa âm tiết.
+   - → Ghi phiêm âm tiếng nước ngoài không cần dấu "-", sẽ ghi thông nhất và hiệu quả hơn. (Ví dụ: Bangladesh: Băng-la-đét -> Barngladet,...)
+   
 Ví dụ:
 
 > Đây là cách viết khác cho tiếng Việt
@@ -25,25 +32,48 @@ Homqua toi di zuthuiedn ors Haflowng, Quasngning
 
 ### 1. Đổi phụ âm
 
+
 ####  Phụ âm đầu
 | Gốc | Mới | ví dụ |
 |----|--|--| 
+| b | b | - |
+| g | g | - |
+| h | h | - |
+| k | k | - |
+| l | l | - |
+| m | m | - |
+| n | n | - |
+| p | p | - |
+| r | r | - |
+| s | s | - |
+| t | t | - |
+| v | v | - |
+| x | x | - |
+| c | k | ca  → ka |
+| d | z | da  → za |
+| đ | đ | đa  → da |
+| tr | tr | - |
+| th | th | - |
+| kh | kh | - |
 | gh | g | ghê → ge |
 | ngh, ng | w | nghiêng -> wieng |
 | nh | jn | nho -> jno |
 | gi | j | gia  → ja |
-| d | z | da  → za |
-| đ | đ | đa  → da |
 | ch | c | cha  → ca |
 | ph | f | pha  → fa |
-| c, k | k | ca  → ka |
+
 
 #### Phụ âm cuối
 
 | Gốc | Mới | ví dụ |
 |----|--|--| 
-| ch | x | sách  → sax |
+| c | c | - |
+| m | m | - |
+| n | n | - |
+| p | p | - |
+| ng | ng | - |
 | t | th | * _Nếu phụ âm đầu của tiếng tiếp theo trong từ phức bắt đầu bằng "h", "r"_ <br> kết hôn  → kethhon, sốt rét -> sothraet |
+| ch | x | sách  → sax |
 | nh | ng, in | xinh  → xing, xanh  → xain |
 
 - Các từ phức **viết liền không dấu cách**
