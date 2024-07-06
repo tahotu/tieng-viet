@@ -3,6 +3,9 @@ Cách viết khác cho tiếng Việt (chỉ để giải trí)
 
 Dùng thử tại: https://tahotu.github.io/tieng-viet/
 
+[toc]
+
+
 ## Giới thiệu
 
 Cách viết tiếng Việt mới:
@@ -24,13 +27,13 @@ Dei lad kax viet khac cow tiezngvieft
 
 > Hôm qua tôi đi du thuyền ở Hạ Long, Quảng Ninh
 
-Homqua toi di zuthuiedn ors Haflowng, Quasngning
+Homqua toi di zuthuiedn ors Haflowng, Quaxngning
 
 
 
 ## Quy tắc
 
-### 1. Đổi phụ âm
+### Đổi phụ âm
 
 
 ####  Phụ âm đầu
@@ -73,7 +76,7 @@ Homqua toi di zuthuiedn ors Haflowng, Quasngning
 | p | p | - |
 | ng | ng | - |
 | t | th | * _Nếu phụ âm đầu của tiếng tiếp theo trong từ phức bắt đầu bằng "h", "r"_ <br> kết hôn  → kethhon, sốt rét -> sothraet |
-| ch | x | sách  → sax |
+| ch | c, ic | ếch → ec, xích → xic, sách  → saic |
 | nh | ng, in | xinh  → xing, xanh  → xain |
 
 - Các từ phức **viết liền không dấu cách**
@@ -85,7 +88,7 @@ Mai an  → Maiyan
 ```
 
 
-### 2. Đổi các nguyên âm/vần
+### Đổi các nguyên âm/vần
 
 ####  Nguyên âm đơn
 
@@ -104,7 +107,7 @@ Mai an  → Maiyan
 | ư | ur | sư  → sur |
 
 
-####  Nguyên âm đôi
+#### Nguyên âm đôi
 
 | Gốc | Mới | ví dụ |
 |----|--|--| 
@@ -141,7 +144,7 @@ Mai an  → Maiyan
 | uy | uy, ui | suy  → suy, huynh  → huing |
 
 
-####  Nguyên âm ba
+#### Nguyên âm ba
 
 
 | Gốc | Mới | ví dụ |
@@ -161,7 +164,7 @@ Mai an  → Maiyan
 | uyu | uiu | ### |
 
 
-### 3. Đổi dấu thanh
+### Đổi dấu thanh
 
 - Đổi dấu thanh bằng ký tự
 - Ký tự dấu đứng sau vần, trước phụ âm cuối
@@ -171,12 +174,19 @@ Mai an  → Maiyan
 | - | - | - |
 | à (huyền) | d | hà → had, lừa → luard |
 | á (sắc) | z | cá → kaz, chính → cizng |
-| ả (hỏi) | s | tả → tas, chảnh → caisn |
+| ả (hỏi) | x | tả → tax, chảnh → caixn |
 | ã (ngã) | b | mã → mab, huyễn → huiebn |
 | ạ (nặng) | f | cộng → kofng, thạch → thafx |
 
 
-### 4. Một số trường hợp cần chú ý
+### Phiên âm tiếng nước ngoài.
+
+TBD:
+  - Phiên âm cr, cl -> kr, kl
+  - Phụ âm cuối quy về tiếng việt (không phát âm tất cả phụ âm cuối)
+  - Coi như không có dấu thanh, nên chữ 'd', 'b' nếu ở giữa câu coi như phụ âm đầu.
+
+### Một số trường hợp cần chú ý
 
 | Gốc | Mới |
 | - | - |
@@ -192,6 +202,8 @@ Mai an  → Maiyan
 | quang | quang |
 | cương | kuang |
 | giữ gìn | jurbjidn |
+| ngốc nghếch | wocwec |
+| sách vở | saicvorx  |
 
 
 ## Ví dụ
@@ -203,14 +215,14 @@ tấm_lòng đau như bị đâm, vẫn lấy cái sự chưa thể ăn thịt n
 nuốt gan uống máu của chúng làm tức.
 
 Ta thuadng thid toirz buarb quen arn, juarb dem vob goiz, nuacmart tradn xuozng deid maep,
-teizmlowdng dau jnur bif deim, veibn leiz kaiz surf cuar thes arnthift nardm za,
-nuot gan uozng mauz kuas cuzng ladm turc.
+teizmlowdng dau jnur bif deim, veibn leiz kaiz surf cuar thex arnthift nardm za,
+nuot gan uozng mauz kuax cuzng ladm turc.
 
 > Dẫu cho một trăm cái thân của ta phải đem đốt ở đồng_cỏ,
 một nghìn cái thân của ta phải đem bọc vào da ngựa, ta cũng vui_lòng.
 
-Zoub cow moft trarm kaiz thein kuas ta fais daem dot ors dodngkows,
-moft widn kaiz thein kuas ta fais daem bowfc vaod za wuarf, ta kubng vuilowdng.
+Zoub cow moft trarm kaiz thein kuax ta faix daem dot orx dodngkowx,
+moft widn kaiz thein kuax ta faix daem bowfc vaod za wuarf, ta kubng vuilowdng.
 
 > Các ngươi lâu_nay ở dưới cửa ta cầm_giữ binh_quyền, thiếu áo thì mặc áo cho,
 thiếu ăn thì sẻ cơm đỡ, quan nhỏ thì cho lên chức, bổng ít cho thêm lương,
@@ -218,35 +230,35 @@ thiếu ăn thì sẻ cơm đỡ, quan nhỏ thì cho lên chức, bổng ít ch
 những khi trận_mạc, sự sống_thác thầy chung với trò, những lúc mừng_khao,
 tiếng vui cười ai cũng như nấy.
 
-Kac wuai lounay ors zuaiz kuars ta keidmjurb bingquiedn, thieuz aoz thid marfc aoz cow,
-thieuz arn thid saes korm dorb, quan jnows thid cow lencurc, bosng it cow them luang,
-di thuys keip thuiedn, dibof keip wuarf,
+Kac wuai lounay orx zuaiz kuarx ta keidmjurb bingquiedn, thieuz aoz thid marfc aoz cow,
+thieuz arn thid saex korm dorb, quan jnowx thid cow lencurc, boxng it cow them luang,
+di thuyx keip thuiedn, dibof keip wuarf,
 jnurbng khi treifnmafc, surf sozngthac theid cung voirz trowd, jnurbng luc murdngkhao,
 tiezng vuikuaid ai kubngjnur neiz.
 
 > So với Công_Kiên làm chức thiên_lý, Ngột_Ngại ở ngôi phó_nhị, có khác gì đâu.
 
-Sowvoirz Kongkien ladm curc thienliz, Woftwaif ors woi fowzjnif, kowzkhac jid dou.
+Sowvoirz Kongkien ladm curc thienliz, Woftwaif orx woi fowzjnif, kowzkhac jid dou.
 
 
 > Thế_mà các ngươi thấy chủ bị nhục chẳng lấy làm lo,
 gặp nước bị dơ chẳng lấy làm thẹn, làm tướng nhà_nước phải hầu mấy đứa chum_mường,
 mà không có lòng căm_hờn, nghe khúc_nhạc thờ đem thết một tên ngụy_sứ, mà không có_vẻ tức_giận;
 
-Thezmad kac wuai theiz cus bif jnufc carsng leizladm low,
-garfp nuac bif zor carsng leizladm thaefn, ladm tuazng jnadnuac fais houd meiz duarz cummuadng,
-mad khongkowz lowdng karmhordn, wae khucjnafc thord daem thet moft ten wuyfsurz, mad khong kowzvaes turcjeifn;
+Thezmad kac wuai theiz cux bif jnufc carxng leizladm low,
+garfp nuac bif zor carxng leizladm thaefn, ladm tuazng jnadnuac faix houd meiz duarz cummuadng,
+mad khongkowz lowdng karmhordn, wae khucjnafc thord daem thet moft ten wuyfsurz, mad khong kowzvaex turcjeifn;
 
 > kẻ thì chọi gà cho thích, kẻ thì đánh_bạc mua_vui, có người chỉ chăm vườn_ruộng, cốt nuôi được nhà;
 có người chỉ mến vợ_con, lấy mình làm trọng; cũng có kẻ chỉ lo làm giàu làm có,
 
-kaes thid coiwfgad cow thix, kaes thid daiznbafc muavui, kowzwuaid cis carm vuadnruofng, kot nuoi duafc jnad;
-kowzwuaid cis mezn vorfkown, leiz midng ladm trowfng; kubng kowz kaes cis low ladmjaud ladm kowz,
+kaex thid coiwfgad cow thic, kaex thid daiznbafc muavui, kowzwuaid cix carm vuadnruofng, kot nuoi duafc jnad;
+kowzwuaid cix mezn vorfkown, leiz midng ladm trowfng; kubng kowz kaex cix low ladmjaud ladm kowz,
 
 > việc quân_quốc chẳng thèm đoái_hoài, cũng có người chỉ ham về săn_bắn mà quên việc binh,
 hoặc là đam mùi rượu ngọt, hoặc là mê tiếng hát hay.
 
-viefc queinquoc carsng thaedm doaizhoaid, kubng kowzwuaid cis ham ved sarnbarzn mad quen viefc bing,
+viefc queinquoc carxng thaedm doaizhoaid, kubng kowzwuaid cix ham ved sarnbarzn mad quen viefc bing,
 hoarfclad dam muid ruoufwowft, hoarfclad me tiezng hat hay.
 
 ### Các ví dụ khác
