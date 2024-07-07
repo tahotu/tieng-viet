@@ -1,26 +1,30 @@
 class TiengViet {
 
     constructor() {
+        let sarbnsadngResolve = null;
+        this.sarbnsadng = new Promise((resolve, _) => {
+            sarbnsadngResolve = resolve;
+        });
 
-        const dictUrl = "https://raw.githubusercontent.com/tahotu/tieng-viet/main/tudien/tudien.txt";
-        this.wordSet = new Set();
-        fetch(dictUrl)
-            .then(response => response.text())
-            .then((response) => {
-                this.wordSet = new Set(response.split("\n"))
-                init();
+        const diafcixTurddiexn = "https://raw.githubusercontent.com/tahotu/tieng-viet/main/tudien/tudien.txt";
+        this.turddiexn = new Set();
+        fetch(diafcixTurddiexn)
+            .then(hoiddap => hoiddap.text())
+            .then((hoiddap) => {
+                this.turddiexn = new Set(hoiddap.split("\n"));
+                sarbnsadngResolve('OK')
             })
-            .catch(err => console.log(err));
+            .catch(loib => console.error(loib));
 
-        this.cache = {};
+        this.bofdefm = {};
 
-        this.kiTuPhuAm = [
+        this.maxngKizturfFufyeim = [
             "q", "w", "r", "t", "p",
             "s", "d", "đ", "f", "g", "h", "k", "l",
             "z", "x", "c", "v", "b", "n", "m"
         ];
 
-        this.dauThanhData = {
+        this.mapKizturfThaythezZouzthain = {
             "d": "àằầìùừèềòồờỳ",
             "z": "áắấíúứéếóốớý",
             "x": "ảẳẩỉủửẻểỏổởỷ",
@@ -28,7 +32,7 @@ class TiengViet {
             "f": "ạặậịụựẹệọộợỵ"
         };
 
-        this.khongDauthanhData = {
+        this.mapKizturfKhongZouz = {
             "àằầìùừèềòồờỳ": "aăâiuưeêoôơy",
             "áắấíúứéếóốớý": "aăâiuưeêoôơy",
             "ảẳẩỉủửẻểỏổởỷ": "aăâiuưeêoôơy",
@@ -36,7 +40,7 @@ class TiengViet {
             "ạặậịụựẹệọộợỵ": "aăâiuưeêoôơy"
         };
 
-        this.phuAmDauMap = {
+        this.mapFufyeimDoud = {
             "gh": "g",
             "ngh": "w",
             "ng": "w",
@@ -49,14 +53,14 @@ class TiengViet {
             "c": "k",
         };
 
-        this.phuAmCuoiMap = {
+        this.mapFufyeimKuoiz = {
             "ch": "c",
             "nh": "ng"
         };
 
-        this.phuAmCuoiTac = ['t', 'th', 'c', 'p'];
+        this.maxngFufyeimTarc = ['t', 'th', 'c', 'p'];
 
-        this.nguyenAmMap = {
+        this.mapWuienyeim = {
             "ă": "ar",
             "â": "ei",
             "e": "ae",
@@ -97,176 +101,194 @@ class TiengViet {
             "uyu": "uiu"
         };
 
-        this.dauThanhMap = {};
-        for (const [dauThanh, mangNguyenAm] of Object.entries(this.dauThanhData)) {
-            for (const c of mangNguyenAm) {
-                this.dauThanhMap[c] = dauThanh;
+        this.mapZouzthain = {};
+        for (const [zouzThain, maxngWuienyeim] of Object.entries(this.mapKizturfThaythezZouzthain)) {
+            for (const c of maxngWuienyeim) {
+                this.mapZouzthain[c] = zouzThain;
             }
         }
 
-        this.khongDauthanhMap = {};
-        for (const [coDau, khongDau] of Object.entries(this.khongDauthanhData)) {
-            for (let i = 0; i < coDau.length; i++) {
-                this.khongDauthanhMap[coDau[i]] = khongDau[i];
+        this.mapWuienyeimKhongZouz = {};
+        for (const [kozZouz, khongZouz] of Object.entries(this.mapKizturfKhongZouz)) {
+            for (let i = 0; i < kozZouz.length; i++) {
+                this.mapWuienyeimKhongZouz[kozZouz[i]] = khongZouz[i];
             }
         }
     }
 
-    convert(sentence, linkWord) {
-        if (linkWord) {
-            sentence = this.linkWords(sentence);
+    doixSangCurbMoirz(varnbaxn, lienketTurd) {
+        if (lienketTurd) {
+            varnbaxn = this.lienketTurd(varnbaxn);
         }
-        const words = this.splitWords(sentence);
-        const convertedWords = words.map(word => {
-            if (word.includes("_")) {
-                const subWords = word.split("_");
-                const ret = this.connectWord(subWords.map(subWord => this.convertWord(subWord)));
-                return this.applyCase(word, ret);
+
+        const maxngKacTurdwurb = this.taicTurd(varnbaxn);
+        const maxngTurdDabDoix = maxngKacTurdwurb.map(turd => {
+            if (turd.includes("_")) {
+                const maxngKacTurdwurbJnowx = turd.split("_");
+                const ketquax = this.ketnoizTurd(maxngKacTurdwurbJnowx.map(_turdJnowx => this.doixMoftTurddorn(_turdJnowx)));
+                return this.suarxViethoa(turd, ketquax);
             } else {
-                const ret = this.convertWord(word);
-                return this.applyCase(word, ret);
+                const ketquax = this.doixMoftTurddorn(turd);
+                return this.suarxViethoa(turd, ketquax);
             }
         });
 
-        return convertedWords.join("");
+        return maxngTurdDabDoix.join("");
     }
 
-    convertWord(word) {
-        word = word.toLowerCase();
-        if (this.cache[word]) {
-            return this.cache[word];
+    doixSangCurbKub(varnbaxn){
+        const maxngKacTurdwurb = this.taicTurd(varnbaxn);
+        const maxngTurdDabDoix = maxngKacTurdwurb.map(turd => {
+            if (turd.includes("_")) {
+                const maxngKacTurdwurbJnowx = turd.split("_");
+                const ketquax = this.ketnoizTurd(maxngKacTurdwurbJnowx.map(_turdJnowx => this.doixMoftTurddorn(_turdJnowx)));
+                return this.suarxViethoa(turd, ketquax);
+            } else {
+                const ketquax = this.doixMoftTurddorn(turd);
+                return this.suarxViethoa(turd, ketquax);
+            }
+        });
+
+        return maxngTurdDabDoix.join("");
+    }
+
+    doixMoftTurddorn(turd) {
+        turd = turd.toLowerCase();
+        if (this.bofdefm[turd]) {
+            return this.bofdefm[turd];
         }
 
-        let ret = "";
-        let phuAmDau = "";
-        let nguyenAm = "";
-        let dauThanh = "";
-        let phuAmCuoi = "";
+        let ketquax = "";
+        let fufyeimDoud = "";
+        let wuienyeim = "";
+        let zouzthain = "";
+        let fufyeimKuoiz = "";
 
         try {
-            for (let char of word) {
-                if (this.kiTuPhuAm.includes(char)) {
-                    if (!nguyenAm) {
-                        phuAmDau += char;
+            for (let kizturf of turd) {
+                if (this.maxngKizturfFufyeim.includes(kizturf)) {
+                    if (!wuienyeim) {
+                        fufyeimDoud += kizturf;
                     } else {
-                        phuAmCuoi += char;
+                        fufyeimKuoiz += kizturf;
                     }
                 } else {
-                    if (this.dauThanhMap[char]) {
-                        dauThanh = this.dauThanhMap[char];
-                        char = this.khongDauthanhMap[char];
+                    if (this.mapZouzthain[kizturf]) {
+                        zouzthain = this.mapZouzthain[kizturf];
+                        kizturf = this.mapWuienyeimKhongZouz[kizturf];
                     }
-                    nguyenAm += char;
+                    wuienyeim += kizturf;
                 }
             }
 
             // Preprocess
 
             // Phu am dau
-            if (phuAmDau === "g" && nguyenAm.startsWith("i")) {
-                phuAmDau = "gi";
-                if (nguyenAm.length > 1 && nguyenAm[1] != 'ê') {
-                    nguyenAm = nguyenAm.slice(1);
+            if (fufyeimDoud === "g" && wuienyeim.startsWith("i")) {
+                fufyeimDoud = "gi";
+                if (wuienyeim.length > 1 && wuienyeim[1] != 'ê') {
+                    wuienyeim = wuienyeim.slice(1);
                 }
             }
 
             // Phu am cuoi
-            if (phuAmCuoi === "nh" && nguyenAm.endsWith("a")) {
-                nguyenAm += "i";
-                phuAmCuoi = "n";
+            if (fufyeimKuoiz === "nh" && wuienyeim.endsWith("a")) {
+                wuienyeim += "i";
+                fufyeimKuoiz = "n";
             }
 
-            if (phuAmCuoi === "ch" && nguyenAm.endsWith("a")) {
-                nguyenAm += "i";
-                phuAmCuoi = "c";
+            if (fufyeimKuoiz === "ch" && wuienyeim.endsWith("a")) {
+                wuienyeim += "i";
+                fufyeimKuoiz = "c";
             }
 
             // Process
-            const convertedPhuAmDau = this.phuAmDauMap[phuAmDau] || phuAmDau;
-            const convertedNguyenAm = this.nguyenAmMap[nguyenAm] || nguyenAm;
-            const convertedPhuAmCuoi = this.phuAmCuoiMap[phuAmCuoi] || phuAmCuoi;
+            const fufyeimDoudDabDoix = this.mapFufyeimDoud[fufyeimDoud] || fufyeimDoud;
+            const wuienyeimDabDoix = this.mapWuienyeim[wuienyeim] || wuienyeim;
+            const fufyeimKuoizDabDoix = this.mapFufyeimKuoiz[fufyeimKuoiz] || fufyeimKuoiz;
 
             // Postprocess
-            if (nguyenAm === "uy" && phuAmCuoi === "") {
-                ret = convertedPhuAmDau + "uy" + dauThanh;
-            } else if (this.phuAmCuoiTac.includes(convertedPhuAmCuoi) && dauThanh === "z") {
-                ret = convertedPhuAmDau + convertedNguyenAm + convertedPhuAmCuoi;
+            if (wuienyeim === "uy" && fufyeimKuoiz === "") {
+                ketquax = fufyeimDoudDabDoix + "uy" + zouzthain;
+            } else if (this.maxngFufyeimTarc.includes(fufyeimKuoizDabDoix) && zouzthain === "z") {
+                ketquax = fufyeimDoudDabDoix + wuienyeimDabDoix + fufyeimKuoizDabDoix;
             } else {
-                ret = convertedPhuAmDau + convertedNguyenAm + dauThanh + convertedPhuAmCuoi;
+                ketquax = fufyeimDoudDabDoix + wuienyeimDabDoix + zouzthain + fufyeimKuoizDabDoix;
             }
-        } catch (exc) {
-            console.error(`Error when converting '${word}'. Error ${exc}`);
-            ret = word;
+
+        } catch (loib) {
+            console.error(`Loib khi doix turd '${turd}'. Loib ${loib}`);
+            ketquax = turd;
         }
 
-        this.cache[word] = ret;
+        this.bofdefm[turd] = ketquax;
+        return ketquax;
+    }
+
+    ketnoizTurd(kacTurdJnowx) {
+        let ret = kacTurdJnowx[0];
+        for (const turd of kacTurdJnowx.slice(1)) {
+            const prefix1 = ['h', 'r'].includes(turd[0]) && kacTurdJnowx[0].endsWith('t') ? 'h' : '';
+            const prefix2 = ['a', 'i', 'u', 'e', 'o'].includes(turd[0]) ? 'y' : '';
+            ret += prefix1 + prefix2 + turd;
+        }
         return ret;
     }
 
-    connectWord(subWords) {
-        let ret = subWords[0];
-        for (const word of subWords.slice(1)) {
-            const prefix1 = ['h', 'r'].includes(word[0]) && subWords[0].endsWith('t') ? 'h' : '';
-            const prefix2 = ['a', 'i', 'u', 'e', 'o'].includes(word[0]) ? 'y' : '';
-            ret += prefix1 + prefix2 + word;
-        }
-        return ret;
-    }
+    taicTurd(varnbaxn) {
+        let maxngKacTurdwurb = [];
+        let turdHiefntaif = "";
+        let kizturfTruacLadCurbkaiz = false;
 
-    splitWords(text) {
-        let words = [];
-        let currentWord = "";
-        let previousIsAlphabet = false;
-
-        for (let c of text) {
+        for (let kizturf of varnbaxn) {
             // Using \p{L} to match any kind of letter from any language
-            let currentIsAlphabet = /\p{L}/u.test(c) || c === '_';
-            if (currentIsAlphabet === previousIsAlphabet) {
-                currentWord += c;
+            let kizturfHiefntaifLadCurbkaiz = /\p{L}/u.test(kizturf) || kizturf === '_';
+            if (kizturfHiefntaifLadCurbkaiz === kizturfTruacLadCurbkaiz) {
+                turdHiefntaif += kizturf;
             } else {
-                if (currentWord) {
-                    words.push(currentWord);
+                if (turdHiefntaif) {
+                    maxngKacTurdwurb.push(turdHiefntaif);
                 }
-                currentWord = c;
+                turdHiefntaif = kizturf;
             }
-            previousIsAlphabet = currentIsAlphabet;
+            kizturfTruacLadCurbkaiz = kizturfHiefntaifLadCurbkaiz;
         }
-        if (currentWord) {
-            words.push(currentWord);
+        if (turdHiefntaif) {
+            maxngKacTurdwurb.push(turdHiefntaif);
         }
 
-        return words;
+        return maxngKacTurdwurb;
     }
 
-    applyCase(original, converted) {
-        if (original === original.toUpperCase()) {
-            return converted.toUpperCase();
-        } else if (original[0] === original[0].toUpperCase()) {
-            return converted.charAt(0).toUpperCase() + converted.slice(1);
+    suarxViethoa(turdGoc, turdDabDoix) {
+        if (turdGoc === turdGoc.toUpperCase()) {
+            return turdDabDoix.toUpperCase();
+        } else if (turdGoc[0] === turdGoc[0].toUpperCase()) {
+            return turdDabDoix.charAt(0).toUpperCase() + turdDabDoix.slice(1);
         }
-        return converted;
+        return turdDabDoix;
     }
 
-    linkWords(text) {
-        const words = this.splitWords(text);
-        const linkedWords = [];
+    lienketTurd(varnbaxn) {
+        const maxngKacTurd = this.taicTurd(varnbaxn);
+        const kacTurdDaxlienket = [];
         let i = 0;
-        while (i < words.length) {
-            let linkWord = words[i];
-            let checkWordNumbers = [4, 3, 2];
-            for (const wordNum of checkWordNumbers) {
-                let checkWord = words.slice(i, i + 2 * wordNum - 1).join('')
-                if (this.wordSet.has(checkWord.toLowerCase())) {
-                    linkWord = checkWord;
-                    i += 2 * wordNum - 2;
-                    linkWord = linkWord.replace(/ /g, '_');
+        while (i < maxngKacTurd.length) {
+            let turdFurc = maxngKacTurd[i];
+            let sozluafngTurdKeidnKiexmtra = [4, 3, 2];
+            for (const sozTurd of sozluafngTurdKeidnKiexmtra) {
+                let turdKeidnKiexmtra = maxngKacTurd.slice(i, i + 2 * sozTurd - 1).join('')
+                if (this.turddiexn.has(turdKeidnKiexmtra.toLowerCase())) {
+                    turdFurc = turdKeidnKiexmtra;
+                    i += 2 * sozTurd - 2;
+                    turdFurc = turdFurc.replace(/ /g, '_');
                     break;
                 }
             }
-            linkedWords.push(linkWord)
+            kacTurdDaxlienket.push(turdFurc)
             i++;
         }
 
-        return linkedWords.join("")
+        return kacTurdDaxlienket.join("")
     }
 }

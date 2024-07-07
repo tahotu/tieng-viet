@@ -9,7 +9,7 @@
 </head>
 
 <body>
-   
+
     <div class="container">
         <div class="area">
             <div class="area-header">
@@ -21,9 +21,9 @@
         </div>
         <div class="area result-area">
             <div class="area-header">
-                <span  class="title">Tiezngvieft ở đây: (<a
-                    href="https://github.com/tahotu/tieng-viet" target="_blank">Quy tắc ở
-                    đây</a> ) 
+                <span class="title">Tiezngvieft ở đây: (<a href="https://github.com/tahotu/tieng-viet"
+                        target="_blank">Quy tắc ở
+                        đây</a> )
                 </span>
                 <span>
                     <input type="checkbox" id="linkWorkCheck" name="linkWorkCheck" checked />
@@ -36,23 +36,20 @@
         </div>
     </div>
     <script>
-    
+
         const tiengViet = new TiengViet();
         const textInput = document.getElementById("textInput");
         const textOutput = document.getElementById("textOutput");
         const linkWorkCheck = document.getElementById("linkWorkCheck");
-        textOutput.value = tiengViet.convert(textInput.value)
+        textOutput.value = tiengViet.doixSangCurbMoirz(textInput.value);
 
-        textInput.addEventListener('keyup', () => {
-            textOutput.value = tiengViet.convert(textInput.value, linkWorkCheck.checked);
-        })
-        linkWorkCheck.addEventListener('change', () => {
-            textOutput.value = tiengViet.convert(textInput.value, linkWorkCheck.checked);
-        })
+        function convertInput(){
+            textOutput.value = tiengViet.doixSangCurbMoirz(textInput.value, linkWorkCheck.checked);
+        }
 
-    function init(){
-        textOutput.value = tiengViet.convert(textInput.value, linkWorkCheck.checked);
-    }
+        textInput.addEventListener('keyup', () => convertInput());
+        linkWorkCheck.addEventListener('change', () => convertInput());
+        tiengViet.sarbnsadng.then(() => convertInput());
     </script>
 </body>
 
