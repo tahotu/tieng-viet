@@ -77,7 +77,7 @@ Homqua toi di zuthuiedn ors Haflowng, Quaxngning
 | ng | ng | - |
 | t | th | * _Nếu phụ âm đầu của tiếng tiếp theo trong từ phức bắt đầu bằng "h", "r"_ <br> kết hôn  → kethhon, sốt rét -> sothraet |
 | ch | c, ic | ếch → ec, xích → xic, sách  → saic |
-| nh | ng, in | xinh  → xing, xanh  → xain |
+| nh | ng, in | mênh → meng, xinh  → xing, xanh  → xain |
 
 - Các từ phức **viết liền không dấu cách**
 
@@ -176,7 +176,7 @@ Mai an  → Maiyan
 | á (sắc) | z | cá → kaz, chính → cizng |
 | ả (hỏi) | x | tả → tax, chảnh → caixn |
 | ã (ngã) | b | mã → mab, huyễn → huiebn |
-| ạ (nặng) | f | cộng → kofng, thạch → thafx |
+| ạ (nặng) | f | cộng → kofng, thạch → thaifc |
 
 
 ### Phiên âm tiếng nước ngoài.
