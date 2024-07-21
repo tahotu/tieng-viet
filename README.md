@@ -182,9 +182,9 @@ Mai an  → Maiyan
 ### Phiên âm tiếng nước ngoài.
 
 TBD:
-  - Phiên âm cr, cl -> kr, kl
+  - Giữ các phụ âm kép: gl, gl, st, str, sc, scr, cl, cr,... 
   - Phụ âm cuối quy về tiếng việt (không phát âm tất cả phụ âm cuối)
-  - Coi như không có dấu thanh, nên chữ 'd', 'b' nếu ở giữa câu coi như phụ âm đầu.
+  - Coi như không có dấu thanh, nên chữ 'd', 'b' nếu ở giữa từ coi như phụ âm đầu.
 
 ### Một số trường hợp cần chú ý
 
