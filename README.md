@@ -58,11 +58,11 @@ Homqua toi di zuthuiedn ors Haflowng, Quaxngning
 | tr | tr | - |
 | th | th | - |
 | kh | kh | - |
+| ch | ch | - |
 | gh | g | ghê → ge |
 | ngh, ng | w | nghiêng -> wieng |
 | nh | jn | nho -> jno |
 | gi | j | gia  → ja |
-| ch | c | cha  → ca |
 | ph | f | pha  → fa |
 
 
@@ -70,14 +70,14 @@ Homqua toi di zuthuiedn ors Haflowng, Quaxngning
 
 | Gốc | Mới | ví dụ |
 |----|--|--| 
-| c | c | - |
+| c | k, ck | * _ck: Nếu phụ âm đầu của tiếng tiếp theo trong từ phức bắt đầu bằng "h"_ <br> Bắc ninh → Barkning, tác hại → tackhaif  |
 | m | m | - |
 | n | n | - |
 | p | p | - |
 | ng | ng | - |
 | t | th | * _Nếu phụ âm đầu của tiếng tiếp theo trong từ phức bắt đầu bằng "h", "r"_ <br> kết hôn  → kethhon, sốt rét -> sothraet |
-| ch | c, ic | ếch → ec, xích → xic, sách  → saic |
-| nh | ng, in | mênh → meng, xinh  → xing, xanh  → xain |
+| ch | c, ic | * _ic: Nếu nguyên âm cuối là "a"_ <br> ếch → ec, xích → xic, sách  → saic |
+| nh | ng, in | * _ng: Nếu nguyên âm cuối cùng là "ê", "i"_ <br> _in: Nếu nguyên âm cuối cùng là a_ <br> mênh → meng, xinh  → xing, xanh  → xain |
 
 - Các từ phức **viết liền không dấu cách**
 
