@@ -48,17 +48,17 @@ class TiengViet {
             "gi": "j",
             "d": "z",
             "đ": "d",
-            "ch": "c",
             "ph": "f",
             "c": "k",
         };
 
         this.mapFufyeimKuoiz = {
-            "ch": "c",
+            "ch": "k",
+            "c": "k",
             "nh": "ng"
         };
 
-        this.maxngFufyeimTarc = ['t', 'th', 'c', 'p'];
+        this.maxngFufyeimTarc = ['t', 'th', 'c', 'p', 'k', 'ck'];
 
         this.mapWuienyeim = {
             "ă": "ar",
@@ -114,6 +114,9 @@ class TiengViet {
                 this.mapWuienyeimKhongZouz[kozZouz[i]] = khongZouz[i];
             }
         }
+
+
+        this.kiexmtraDoixChurbMoirz();
     }
 
     doixSangCurbMoirz(varnbaxn, lienketTurd) {
@@ -226,12 +229,21 @@ class TiengViet {
     }
 
     ketnoizTurd(kacTurdJnowx) {
-        let ret = kacTurdJnowx[0];
-        for (const turd of kacTurdJnowx.slice(1)) {
-            const prefix1 = ['h', 'r'].includes(turd[0]) && kacTurdJnowx[0].endsWith('t') ? 'h' : '';
-            const prefix2 = ['a', 'i', 'u', 'e', 'o'].includes(turd[0]) ? 'y' : '';
-            ret += prefix1 + prefix2 + turd;
-        }
+        let ret = '';
+        kacTurdJnowx.forEach((turd, chixmufc) => {
+            if (chixmufc == 0){
+                ret = turd
+            } else {
+                let previousPostfix = '';
+                if (['h', 'r'].includes(turd[0]) && kacTurdJnowx[chixmufc - 1].endsWith('t')){
+                    previousPostfix = 'h';
+                } else if (['h'].includes(turd[0]) && kacTurdJnowx[chixmufc - 1].endsWith('k')){
+                    ret = ret.slice(0, -1) + 'ck';
+                }
+                const prefix = ['a', 'i', 'u', 'e', 'o'].includes(turd[0]) ? 'y' : '';
+                ret += previousPostfix + prefix + turd;
+            }
+        })
         return ret;
     }
 
@@ -290,5 +302,47 @@ class TiengViet {
         }
 
         return kacTurdDaxlienket.join("")
+    }
+
+    kiexmtraDoixChurbMoirz(){
+        const testCases = [
+            ["ngoan", "woan"],
+            ["nghiêng", "wieng"],
+            ["xinh", "xing"],
+            ["xanh", "xain"],
+            ["huynh", "huing"],
+            ["quân", "quein"],
+            ["quyên", "quien"],
+            ["quây", "quei"],
+            ["quynh", "quing"],
+            ["quên", "quen"],
+            ["quen", "quaen"],
+            ["quang", "quang"],
+            ["cương", "kuang"],
+            ["giữ_gìn", "jurbjidn"],
+            ["ngốc_nghếch", "wokwek"],
+            ["sách_vở", "saikvorx"],
+            ["kết_hôn", "kethhon"],
+            ["sắp_kết_hôn", "sarpkethhon"],
+            ["sốt_rét", "sothraet"],
+            ["a_hai", "ahai"],
+            ["ác_hai", "ackhai"],
+            ["a_cai", "akai"],
+            ["ác_cai", "akkai"],
+            ["a_khai", "akhai"],
+            ["ác_khai", "akkhai"],
+            ["a_chai", "achai"],
+            ["ác_chai", "akchai"],
+            ["bắc_ninh", "barkning"],
+            ["đắk_lắk", "darklark"]
+        ];
+
+        for (const pair of testCases){
+            if (this.doixSangCurbMoirz(pair[0]) != pair[1]){
+                throw (`Error. Orinal: ${pair[0]}, expected ${pair[1]}, got ${this.doixSangCurbMoirz(pair[0])}`);
+            }
+        }
+
+        console.log("OK");
     }
 }

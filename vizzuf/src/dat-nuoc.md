@@ -472,468 +472,468 @@ Tiếng hát xuống đường!
 
 ### Tiezngvieft
 
-Khi ta lorznlen Deitnuac dab kowz roid
-Deitnuac kowz trowng jnurbng kaiz “wayd xuars waydxuar...” maef thuadng hay kes
-Deitnuac bartdoud voirz miezng troud beijord bad arn
-Deitnuac lorznlen khi zein midng biet trodng trae mad daiznjarfc
-Towc maef thid boirz sau doud
-Camaef thuang jnau bardng gurdng kay muoiz marfn
+Khi ta lorznlen Deitnuak dab kowz roid
+Deitnuak kowz trowng jnurbng kaiz “waydxuarxwaydxuar...” maef thuadng hay kex
+Deitnuak bartdoud voirz miezng troud beijord bad arn
+Deitnuak lorznlen khi zein midng biet trodng trae mad daiznjarfk
+Towk maef thid boirz sau doud
+Chamaef thuang jnau bardng gurdng kay muoiz marfn
 Kaiz keod, kaiz koft thaidn ten
-Haft gaof fais moft narzng hai suang xay, jab, jeidn, sadng
-Deitnuac kowz turdwayd dowz...
+Haft gaof faix moftnarznghaisuang xay, jab, jeidn, sadng
+Deitnuak kowz turdwayd dowz...
 
 Deit lad noir ain dezn truadng
-Nuac lad noir aem tarzm
-Deitnuac lad noir ta howdhaefn
-Deitnuac lad noir aem daiznroir ciec kharn trowng noib jnorz theidm
-Deit lad noir “kown cim fuafnghoadng bay ved howdn nuiz bafc”
-Nuac lad noir “kownkaz wuryong mowzng nuac biesnkhoir”
+Nuak lad noir aem tarzm
+Deitnuak lad noir ta howdhaefn
+Deitnuak lad noir aem daiznroir chiek kharn trowng noib jnorz theidm
+Deit lad noir “kown chim fuafnghoadng bay ved howdn nuiz bafk”
+Nuak lad noir “kownkaz wuryong mowzng nuak biexnkhoir”
 Thoirdjan dardngdarbng
 Khongjan mengmong
-Deitnuac lad noir zein midng doadntuf
-Deit lad noir Cim ved
-Nuac lad noir Rodng ors
-Lafc Lowng Quein vad Oukor
-Daes ra dodngbaod ta trowng bowfc trurzng
+Deitnuak lad noir zein midng doadntuf
+Deit lad noir Chim ved
+Nuak lad noir Rodng orx
+Lafk Lowng Quein vad Oukor
+Daex ra dodngbaod ta trowng bowfk trurzng
 Jnurbngyai dab khueit
 Jnurbngyai beijord
-Ieu jnau vad sing kowndaes kaiz
-Gaiznvac feidn wuaid di truac deslaif
-Zarfnzowd kowncauz cuiefn maisau
+Ieu jnau vad singkowndaexkaiz
+Gaiznvak feidn wuaid di truak dexlaif
+Zarfnzowd kownchauz chuiefn maisau
 Hardng narm arn dou ladm dou
-Kubng biet kuizdoud jnorz waydjob Tos
+Kubng biet kuizdoud jnorz waydjob Tox
 Trowng ain vad aem homnay
-Deud kowzmoft feidn Deitnuac
+Deud kowzmoft feidn Deitnuak
 Khi hai duarz keidmtay
-Deitnuac trowng cuzngmidng haidhoad nodngtharzm
-Khi cuzngta keidmtay moiwf wuaid
-Deitnuac vaefntrowdn, towlorzn
+Deitnuak trowng chuzngmidng haidhoad nodngtharzm
+Khi chuzngta keidmtay moiwf wuaid
+Deitnuak vaefntrowdn, towlorzn
 
 Mai nayd kown ta lorznlen
-Kown saeb mang deitnuac di xa
+Kown saeb mang deitnuak di xa
 Dezn jnurbng thazngwayd mormofng
-Aem oir aem Deitnuac lad mauzxuang kuas midng
-Faisbiet garznbowz sansaes
-Faisbiet hoazthein cow zazng hidng xurzsors
-Ladmnen Deitnuac muondoird...
+Aem oir aem Deitnuak lad mauzxuang kuax midng
+Faixbiet garznbowz sansaex
+Faixbiet hoazthein chow zazng hidng xurzsorx
+Ladmnen Deitnuak muondoird...
 
          *
 
-Jnurbng wuaid vorf jnorz codng kowdn gowp cow Deitnuac jnurbng nuiz Vowfngfu
-Karfp vorfcodng ieu jnau gowp nen howdn Trozngmaiz
-Gowt wuarf kuas Thaiznjowzng diqua kowdn trarm ao deidm deslaif
-Cizn muai cizn kownvoiw gowp midng zurfng Deit tos Hudngvuang
-Jnurbng kown rodng nardmyim gowp zowdng song xain tharsm
-Wuaid howfctrowd weod jup cow Deitnuac midng nuiz But, nown Wien.
-Kown kowc, kown gad quehuang kudng gowp cow Haf Lowng thaidn tharzngkaisn
-Jnurbng wuaid zein naod dab gowp ten Ong Doc, Ong Trang, Baddaen, Baddiesm
-Vad ors dou tren kharp ruofngdodng gowd baib
-Carsng mang moft zazng hidng, moft aoyuac, moft loizsozng ongca
-Oi Deitnuac sau bozn wadnnarm di douta kubng theiz
-Jnurbng kuofcdoird dab hoaz nuizsong ta...
+Jnurbng wuaid vorf jnorz chodng kowdn gowp chow Deitnuak jnurbng nuiz Vowfngfu
+Karfp vorfchodng ieu jnau gowp nen howdn Trozngmaiz
+Gowt wuarf kuax Thaiznjowzng diqua kowdn trarm ao deidm dexlaif
+Chizn muai chizn kownvoiw gowp midng zurfng Deit tox Hudngvuang
+Jnurbng kown rodng nardmyim gowp zowdng song xain tharxm
+Wuaid howfktrowd weod jup chow Deitnuak midng nuiz But, nown Wien.
+Kown kowk, kown gad quehuang kudng gowp chow Haf Lowng thaidn tharzngkaixn
+Jnurbng wuaid zein naod dab gowp ten Ong Dok, Ong Trang, Baddaen, Baddiexm
+Vad orx dou tren kharp ruofngdodng gowd baib
+Charxng mang moft zazng hidng, moft aoyuak, moft loizsozng ongcha
+Oi Deitnuak sau bozn wadnnarm di douta kubng theiz
+Jnurbng kuofkdoird dab hoaz nuizsong ta...
 
 Aem oir aem
 Hayb jnidn reit xa
-Vaod bozn wadnnarm Deitnuac
+Vaod bozn wadnnarm Deitnuak
 Narmthazng naod kubng wuaidwuaid lorplorp
-Kowngaiz, kowntrai bardng tuois cuzngta
+Kowngaiz, kowntrai bardng tuoix chuzngta
 Keidnkud ladmlufng
-Khi kowz jarfc wuaid kowntrai ratreifn
-Wuaid kowngaiz trorsved nuoi kaiz kudng kown
-Wayd jarfc dezn jnad thid dadnbad kubng daizn
-Jnieud wuaid dab trorsthaidn ainhudng
-Jnieud ainhudng kas ain vad aem deud jnorz
+Khi kowz jarfk wuaid kowntrai ratreifn
+Wuaid kowngaiz trorxved nuoikaizkudngkown
+Wayd jarfk dezn jnad thid dadnbad kubng daizn
+Jnieud wuaid dab trorxthaidn ainhudng
+Jnieud ainhudng kax ain vad aem deud jnorz
 Jnurbng aem biet khong
 Kowz bietbao wuaid kowngaiz, kowntrai
-Trowng bozn wadn lorp wuaid jozng ta luarztuois
-Howf dab sozng vad cet
-Jasnzif vad bidngteim
+Trowng bozn wadn lorp wuaid jozng ta luarztuoix
+Howf dab sozng vad chet
+Jaxnzif vad bidngteim
 Khongyai jnorz marft darftten
-Jnurng howf dab ladmra Deitnuac
-Howf jurb vad truiedn cow ta haft luaz ta trodng
-Howf truiedn luars cow moib jnad turd howdn than qua kownkuiz
-Howf truiedn jowfngdieuf midng cow kown teifp noiwz
-Howf gaizn theo ten xab, ten ladng trowng moib cuiezn zizein
-Howf darp deifp bae bord cow wuaid sau trong kei haiz traiz
-Kowz woaifxeim thid cozng woaifxeim
+Jnurng howf dab ladmra Deitnuak
+Howf jurb vad truiedn chow ta haft luaz ta trodng
+Howf truiedn luarx chow moib jnad turd howdn than qua kownkuiz
+Howf truiedn jowfngdieuf midng chow kown teifp noiwz
+Howf gaizn theo ten xab, ten ladng trowng moib chuiezn zizein
+Howf darpdeifpbaebord chow wuaid sau trong kei haiz traiz
+Kowz woaifxeim thid chozng woaifxeim
 Kowz noif thud thid vudnglen daiznbaif
-Desdeit Nuac nayd lad Deitnuac Jneinzein
-Deitnuac kuas Jneinzein, Deitnuac kuas kazao theidnthoaif
-Zayf ain biet “ieu aem turdthuors trowng noi”
+Dexdeit Nuak nayd lad Deitnuak Jneinzein
+Deitnuak kuax Jneinzein, Deitnuak kuax kazao theidnthoaif
+Zayf ain biet “ieu aem turdthuorx trowng noi”
 Biet quyz kong keidm vadng jnurbng wayd larfnloif
 Biet trodng trae doirf wayd thaidn geif
-Di trasthud mad khong sorf zaidlou
-Oi jnurbng zowdng song bart nuac turd lou
-Mad khi ved Deitnuac midng thid bart len kouhat
-Wuaid dezn hat khi ceoddowd, keoz thuiedn vuaft thac
+Di traxthud mad khong sorf zaidlou
+Oi jnurbng zowdng song bart nuak turd lou
+Mad khi ved Deitnuak midng thid bart len kouhat
+Wuaid dezn hat khi cheoddowd, keoz thuiedn vuaft thak
 Goirf trarm maud tren trarm zazng song xuoi
-Wuaid zayf ta weod arn caoz arn rau
-Biet arn ort des daiznluard kaiz luaib
-Kaiz kuoc, kownzao, daiznluard kaiz tuois
-Caezn ruouf daiznluard korn moiws, korn dau
-Kownnofm nang trae daiznluard kaiz cet
+Wuaid zayf ta weod arn chaoz arn rau
+Biet arn ort dex daiznluard kaiz luaib
+Kaiz kuok, kownzao, daiznluard kaiz tuoix
+Chaezn ruouf daiznluard korn moiwx, korn dau
+Kownnofm nang trae daiznluard kaiz chet
 Daiznluard kaiz raet lad arn miezng troud
 Daiznluard thuodngluodng xarmmidng xarm marft
-Daiznluard thardng jarfc lad cuiefn Trafng Quidng
+Daiznluard thardng jarfk lad chuiefn Trafng Quidng
 Jnurng lafludng thay, jneinzein thongming
-Khonghed luard ta zud kazao, kostix
+Khonghed luard ta zud kazao, koxtik
 Ta lorznlen bardng niedmtin reit theift
-Bietbao jnieu haidn fuc kowz tren doird
-Zoub faiskhi kaydarzng zeifpvuid
+Bietbaojnieu haidn fuk kowz tren doird
+Zoub faixkhi kaydarzng zeifpvuid
 Rardng kow Teizm kubng ladm ved hoadnghouf
-Kei khezcua kowz daifbadng dezn douf
-Cim arn roid tras wownwowft cow ta
-Deitdai koibkardn thid wuaid saeb norshoa
-Hoa kuas deit, wuaid trodng kei zurfng kuars
-Khi ta dezn gowb len turdng kaiznkuars
-Thid tinyieu waytharsng dowzn ta vaod
-Ta waefnwaod, Deitnuac Vieftnam oir!...
+Kei khezchua kowz daifbadng dezn douf
+Chim arn roid trax wownwowft chow ta
+Deitdai koibkardn thid wuaid saeb norxhoa
+Hoa kuax deit, wuaid trodng kei zurfng kuarx
+Khi ta dezn gowb len turdng kaiznkuarx
+Thid tinyieu waytharxng dowzn ta vaod
+Ta waefnwaod, Deitnuak Vieftnam oir!...
 
          *
 
-Ta lorznlen khaokhat jnurbng ceintroird
-Jnurbng maisndeit cein midng cuar baezn duafc
-Jnurbng biesn khoirz cuarz marfttroird dowsrurfc
+Ta lorznlen khaokhat jnurbng cheintroird
+Jnurbng maixndeit chein midng chuar baezn duafk
+Jnurbng biexn khoirz chuarz marfttroird dowxrurfk
 Jnurbng wadn sao troi miet juarb maud xain
-Oi kowz kax jid ta duafc warzm jnurbng bidngming
-Buois vubtruf corp budng nen surf sozng
-Vad aiznsazng tren ciec xae vadng cuiesndofng
-Bobng moft wayd eizmyap kes ta wae
-Ved jnurbng kownwuai kuas thienthes xaxoi
+Oi kowz kaik jid ta duafk warzm jnurbng bidngming
+Buoix vubtruf chorp budng nen surf sozng
+Vad aiznsazng tren chiek xae vadng chuiexndofng
+Bobng moft wayd eizmyap kex ta wae
+Ved jnurbng kownwuai kuax thienthex xaxoi
 Muozn boudbafn voirz kownwuaid Traizdeit
 Oi fut dowz ta vudnglen weiweit
-Muozn omcoadng het teitkas troird mei
+Muozn omchoadng het teitkax troird mei
 Traiztim tay narfngtriub jnurbng mesay
 Saeb jeo xuozng ladm eimvang marftdeit...
 
 Jnurng aem oir, kaiz dieud trongdoirf jneit
-Veibn jnurbng jid kowzthes kowz homnay
-Turd homnay, tren maisndeit tadei
-Ta narzm nowz jnur soirf mei vurbngcaib
+Veibn jnurbng jid kowzthex kowz homnay
+Turd homnay, tren maixndeit tadei
+Ta narzm nowz jnur soirf mei vurbngchaib
 Roid rut zeidn turd kaiznrurdng vibdaif
-Kuas kuofcdoird hardng nuoizuabng cuzngta
+Kuax kuofkdoird hardng nuoizuabng chuzngta
 Vad zieufkid thay! Ta bobng loaz beitword
-Ta dab theiz kuofcdoird vohafn
+Ta dab theiz kuofkdoird vohafn
 Juarb deitdai, jneinzein, baedbafn
-Ta tidmra aiznsazng kuas Kownwuaid
+Ta tidmra aiznsazng kuax Kownwuaid
 Jnurbng Kownwuaid ladm songnuiz sazng tuai...
 
          *
 
-Jnurbng diafzain troi turdthuors xaxoi
-Troi bardng mauz vad troi bardng nuacmart
+Jnurbng diafzain troi turdthuorx xaxoi
+Troi bardng mauz vad troi bardng nuakmart
 Dab dowfng laif thaidn ten wuai, ten deit
 Bao narm roid suot marft fa, triedn song
 Jnurng khongkowz kownwuaid naod dab troi het sounong
 
-Bardng jnurbng wuaid zein miedn Tei weodkhos
-Dei khong biesn thid rurdng ladm biesnkas
-Moft biesn xain voirz kodn sowzng wuttroird
-Howf bazm midng vaod teizm reib nois troi
-Roid gufc cet zuaiz maud xain vibngviebn
-Kuofcdoird howf mengmang beitdifng
-Cis dowz weod bazmriet leiz maudza
+Bardng jnurbng wuaid zein miedn Tei weodkhox
+Dei khong biexn thid rurdng ladm biexnkax
+Moft biexn xain voirz kodn sowzng wuttroird
+Howf bazm midng vaod teizm reib noix troi
+Roid gufk chet zuaiz maud xain vibngviebn
+Kuofkdoird howf mengmang beitdifng
+Chix dowz weod bazmriet leiz maudza
 Oi meitrarzng wang doud, jowz zuaiz rurdng xa
-Deitnuac ors dou? Dou lad Deitnuac?
+Deitnuak orx dou? Dou lad Deitnuak?
 Kord-ruodng Kud tieft!
-Tiezng suoiz hay tiezng cim?
-Tiezng wuaid hay tiezng cieng?
-Tiezng daz larn, kei dos?
-Thac gaod hay daz nos?
+Tiezng suoiz hay tiezng chim?
+Tiezng wuaid hay tiezng chieng?
+Tiezng daz larn, kei dox?
+Thak gaod hay daz nox?
 Kord-ruodng Kud tieft!
 Kord-ruodng Kud tieft!
-Deitnuac! Deitnuac!
-Deitnuac tren miefng ta roid
+Deitnuak! Deitnuak!
+Deitnuak tren miefng ta roid
 Trowng tim ta mang
-Tren cein ta buac
-Deitnuac! Deitnuac!
-Kas nuizrurdng thaet lendodng loaft!
-Dowz lad narm zuaiz thoird jarfc Fap
-Cuzng heit hadng cufc coiwd Ta-oi ra khoiws basndod
-Deis howf vaod jnurbng kaiznrurdng xain khong Tosquoc
-Cizng lucdowz
-Luars dab cayz len!
-Luars wadndoird turd moib bep cayz len!
+Tren chein ta buak
+Deitnuak! Deitnuak!
+Kax nuizrurdng thaet lendodng loaft!
+Dowz lad narm zuaiz thoird jarfk Fap
+Chuzng heit hadng chufk choiwd Ta-oi ra khoiwx baxndod
+Deix howf vaod jnurbng kaiznrurdng xain khong Toxquok
+Chizng lukdowz
+Luarx dab chayz len!
+Luarx wadndoird turd moib bep chayz len!
 Dot jnad! Ta dot het jnad!
-Diuf kown len lurng vac jaoz len vai
-Daizn trarm ciec kodng xuien thusng nuiz
-Mart wuaidjad quăc len cow dadn traes theo
+Diuf kown len lurng vak jaoz len vai
+Daizn trarm chiek kodng xuien thuxng nuiz
+Mart wuaidjad quăk len chow dadn traex theo
 Ta dafp rurdng jnardm fiaz Dong buantoirz!
 Oi ta ved wuodn! Ved wuodn!
 Kord-ruodng Kud tieft!
 Kord-ruodng Kud tieft!
-Deitnuac! Deitnuac!
-Oi ta ved theo Deitnuac
-Ta khong ciuf ladmwuaid zein khong Deitnuac
+Deitnuak! Deitnuak!
+Oi ta ved theo Deitnuak
+Ta khong chiuf ladmwuaid zein khong Deitnuak
 Khong Vieftnam
-Biesn rurdng gaod len jnur muozn niuz cein ta
-Biesn rurdng khong kuozn ta vaod vodifng nuarb
+Biexn rurdng gaod len jnur muozn niuz chein ta
+Biexn rurdng khong kuozn ta vaod vodifng nuarb
 Ta ladm kown suoiz rurdng biet tidm song mad toirz
 Ta ladm kown nai biet tidm loiz mad ved
-Marfttroird mowfc, marfttroird cis huazng
+Marfttroird mowfk, marfttroird chix huazng
 Oi lowdng ta kowzmarft troird soiwsazng
-Ta trorsved Deitnuac Tostien oir!...
+Ta trorxved Deitnuak Toxtien oir!...
 Vad homnay
 Khi bowm thardng Mib toirz
 Kartwang jnurbng noiwz jnowfn jnad ladng
-Con jnurbng jnadmod vaod deit buif
+Chon jnurbng jnadmod vaod deit buif
 Ta daizn lentiezng kodng
 Ta goiwf vang rurdng vang uiz
-Deitnuac!
-Ta daizn lentiezng cieng cow kas Barcnam kudng waeduafc!
+Deitnuak!
+Ta daizn lentiezng chieng chow kax Barknam kudng waeduafk!
 Wae teizmlowdng wuaid Tad-oi, Pa-ko, Kad-tu
-Thuyscung Deitnuac
+Thuyxchung Deitnuak
 Roid ta quăng kodng zuaiz suoiz
-Roid ta cus cieng zuaiz kei
+Roid ta chux chieng zuaiz kei
 Ta di
-Trowng eimvang ieunuac
+Trowng eimvang ieunuak
 Ta di voirz ruarf vad ten
 Ruarf ta maid vaod gob thaidn nuang
 Ten ta gaid xuozng deit thaidn beib
-Thardng Mib vaod thid xac mad des deiz!
-Thardng wuyf vaod thid xac nowz durdng con!
-Cow cauz kown ta, ai saunuarb, duafc jnidn!
-Oi Deitnuac doud muib zao
-Deitnuac doud muibten
-Deitnuac doud tiezng cieng
-Deitnuac lad wowfnluars
-Deitnuac tradn len turdng disng nuiz
-Deitnuac thienglieng...
+Thardng Mib vaod thid xak mad dex deiz!
+Thardng wuyf vaod thid xak nowz durdng chon!
+Chow chauz kown ta, ai saunuarb, duafk jnidn!
+Oi Deitnuak doud muib zao
+Deitnuak doud muibten
+Deitnuak doud tiezng chieng
+Deitnuak lad wowfnluarx
+Deitnuak tradn len turdng dixng nuiz
+Deitnuak thienglieng...
 
          *
 
 Dem nay ta len het marft song Hodng!
-Nuac daizndofng zuaiz cein ta roid
-Deitnuac
-Dang goiwf ta turdng hoid trozng thuc
-Deitnuac xoayz jnaod tim ta
-Kizyurc
-Deitnuac muondoird dang varfnmidng, dang soi...
+Nuak daizndofng zuaiz chein ta roid
+Deitnuak
+Dang goiwf ta turdng hoid trozng thuk
+Deitnuak xoayz jnaod tim ta
+Kizyurk
+Deitnuak muondoird dang varfnmidng, dang soi...
 
-Cuzngta lad wuaid zein miednnam
-Jnung toi biet ain gocgac howfhoadng King Barc
-Kowdn toi howf Wuiebn tisng Dong
-Huietthozng ta troi tren bazndaos eimtheidm
+Chuzngta lad wuaid zein miednnam
+Jnung toi biet ain gokgak howfhoadng King Bark
+Kowdn toi howf Wuiebn tixng Dong
+Huietthozng ta troi tren bazndaox eimtheidm
 Homnay bobng reoz soi turdng hoid turdng treifn
-Khi korn lub dang lao qua couthos song Hodng!
+Khi korn lub dang lao qua chouthox song Hodng!
 
 Ta len het marft de song Hodng!
-Zoub cis bardng teimtuasng
-ORS doudowz ta khong kowdn jnorz nuarb
-Sao tostien ta keidm kuoc, keidm kayd
+Zoub chix bardng teimtuaxng
+ORX doudowz ta khong kowdn jnorz nuarb
+Sao toxtien ta keidm kuok, keidm kayd
 Keidm jaoz, keidm khien vad keittiezng hat luudayd
-Des xa couthos turd dof eiz...
+Dex xa chouthox turd dof eiz...
 
-Oi jnurbng goc trae tostien ta turdng theiz
+Oi jnurbng gok trae toxtien ta turdng theiz
 Veibn kowdnwuien tren bord baib song Hodng
 Luaz len xain tren jnurbng kaizndodng
-Kubng kowz tay cayong in vaod trowng luaz
-Southarsm quaz cowdezn turdng maizraf
-Kubng kowzzazng moft wayd cayong kharngoiwz buacra
+Kubng kowz tay chayong in vaod trowng luaz
+Southarxm quaz chowdezn turdng maizraf
+Kubng kowzzazng moft wayd chayong kharngoiwz buakra
 
-Oi jnurbng jid Wuaid dab uacmor
+Oi jnurbng jid Wuaid dab uakmor
 Thid beijord kubng thorm laz thorm hoa
-Nen homnay cuzngta
-Fais len het de song Hodng mad jurb leiz!
+Nen homnay chuzngta
+Faix len het de song Hodng mad jurb leiz!
 
-Deitnuac
-Fais carft trae, dowzngkowfc mad jurb leiz!
-Deitnuac
-Fais dan fen, dos deit mad jurb leiz!
-Deitnuac
-Fais faz jnad, carft kei vuadn vac ra mad jurb leiz!
-Deitnuac
-Fais neowuaid xuozng song, carfn nuac mad jurb leiz!
-Deitnuac
-Deitnuac khongthes troi duafc!
-Mauzxuang, modmas tostien dab troi di
+Deitnuak
+Faix charft trae, dowzngkowfk mad jurb leiz!
+Deitnuak
+Faix dan fen, dox deit mad jurb leiz!
+Deitnuak
+Faix faz jnad, charft kei vuadn vak ra mad jurb leiz!
+Deitnuak
+Faix neowuaid xuozng song, charfn nuak mad jurb leiz!
+Deitnuak
+Deitnuak khongthex troi duafk!
+Mauzxuang, modmax toxtien dab troi di
 Jnurbng zowdnghowf dab troi di
-Jnurng homnay khongthes naod troi duafc!
-Deitnuac
+Jnurng homnay khongthexnaod troi duafk!
+Deitnuak
 Dang geidm len trowng sowzngjowz weittroird
-Hadng cufc trieuf thuackhoiz nuac dang lao vaod marftdeit
-Kuofc xaptreifn kuas veiftceit muozn daed veiftceit
-Kuas thienjnien daed xuozng kownwuaid
+Hadng chufk trieuf thuakkhoiz nuak dang lao vaod marftdeit
+Kuofk xaptreifn kuax veiftcheit muozn daed veiftcheit
+Kuax thienjnien daed xuozng kownwuaid
 Ta vuanmidng gaizn leiz deitdai
-Ta naezm mauzxuang ta vaod ladm veift kasn
-Teitkas izciz vad singmafng
-Fais duafc vai zuarf vaodvai, duid goiz len duid
-Deis kown de song Hodng tiezn len fiaztruac
-Tharzng jarfc Mib hay tharzng jarfc nuac
+Ta naezm mauzxuang ta vaod ladm veift kaxn
+Teitkax izchiz vad singmafng
+Faix duafk vai zuarf vaodvai, duid goiz len duid
+Deix kown de song Hodng tiezn len fiaztruak
+Tharzng jarfk Mib hay tharzng jarfk nuak
 Deud jneitted xungfowng!
 
 Sornting dang jnidn ta lowlarzng darmdarm
-Kas jneinloaif dang jnidn ta kosvub
-Kowncauz ta maisau hoizhas leift turdng trang lifxsurs
-Worfp truac kown de song Hodng lenkao, lenkao...
-Caod 4000 narm! Kown de jnur moft kaizntay kao
-Kuas theztreifn jnurbng wuaidladm cus
-Ladmcus kuofcdoird vad luat turdng disng lub
-Baosvef miezn Barc, civiefn miednnam!
+Kax jneinloaif dang jnidn ta koxvub
+Kownchauz ta maisau hoizhax leift turdng trang lifksurx
+Worfp truak kown de song Hodng lenkao, lenkao...
+Chaod 4000 narm! Kown de jnur moft kaizntay kao
+Kuax theztreifn jnurbng wuaidladm chux
+Ladmchux kuofkdoird vad luat turdng dixng lub
+Baoxvef miezn Bark, chiviefn miednnam!
 
 Maef Vieftnam oir!
-Dem nay kown ved goizdoud tren kaizntay kuas Maef
-Oi kaizntay rarznroiws, ziufhiedn
+Dem nay kown ved goizdoud tren kaizntay kuax Maef
+Oi kaizntay rarznroiwx, ziufhiedn
 Leizmlap budnleid jnurng eizmyap niedmtin
-Dowz lad hai kaizn de song Hodng kuas Maef
-Maef fas vaod marft kown nodngnadn muid suarb
-Kuas jnurbng dodng xa wuienvaefn jnur muad
-Kown dab di xa turdthuors eiz deznjord
-Nay bowfn Mib kowdn kart cia Deitnuac
-Jnurng demdem kown trorsved theinthuofc
-Wus tren kaizntay Maef hiednturd kaydarzng nuoi kown
-Trowng thazngnarm corp bes muarwuodn
+Dowz lad hai kaizn de song Hodng kuax Maef
+Maef fax vaod marft kown nodngnadn muid suarb
+Kuax jnurbng dodng xa wuienvaefn jnur muad
+Kown dab di xa turdthuorx eiz deznjord
+Nay bowfn Mib kowdn kart chia Deitnuak
+Jnurng demdem kown trorxved theinthuofk
+Wux tren kaizntay Maef hiednturd kaydarzng nuoi kown
+Trowng thazngnarm chorpbexmuarwuodn
 Ru kown lorzn vad ladmwuaid thuang Maef...
 
          *
 
 Dab kowzmoft thoird
-Ai muozn vaod coumib La-ting
-Dezn truac vifng Ka-ra-ip
+Ai muozn vaod choumib La-ting
+Dezn truak vifng Ka-ra-ip
 Saeb khong keidnzudng diafbadn
-Kurz jnidn jnurbng xac zadaen
-Troi beifpbedng tren biesn
-Jnurbng xac zadaen cis huazng
-Duar ain vaod “maisn vuadn sau” kuas cuswiab thurfczein
+Kurz jnidn jnurbng xak zadaen
+Troi beifpbedng tren biexn
+Jnurbng xak zadaen chix huazng
+Duar ain vaod “maixn vuadn sau” kuax chuxwiabthurfkzein
 Dab kowzmoft thoird
 Ai muozn dezn Vieftnam
-Kurz theogowt jnurbng dadn wuarf fuang Barc
-Haycurb theifp tren taud buon nuac Fap
-Kac bafn saeb tidmra Vieftnam
-Boirsvid wayd eiz
-Nuac cuzngtoi cuar kowz tren basndod thezjoirz
-Wonwurb loaidwuaid cuar biet hai curb “Vieftnam”
+Kurz theogowt jnurbng dadn wuarf fuang Bark
+Haychurb theifp tren taud buon nuak Fap
+Kak bafn saeb tidmra Vieftnam
+Boirxvid wayd eiz
+Nuak chuzngtoi chuar kowz tren baxndod thezjoirz
+Wonwurb loaidwuaid chuar biet hai churb “Vieftnam”
 Vad zoub bafn dezn dei
-Ciskowz jnurbng ten dohof fus toadnquiedn
+Chixkowz jnurbng ten dohof fux toadnquiedn
 Durzngra tiep bafn
 Jnurng homnay
 Bafn hayb ditheo jnurbng doadn dibof tueidnhaidn
 Mang jnurbng lazkord saovadng
-ORS Pa-ri, ors Mat-xcor-va hay Xtoc-khom
-Bafn saeb dezn duafc Vieftnam toi dowz
+ORX Pa-ri, orx Mat-xcor-va hay Xtok-khom
+Bafn saeb dezn duafk Vieftnam toi dowz
 
-Boirsvid Vieftnam homnay
+Boirxvid Vieftnam homnay
 Nardm juarb lowdng thezjoirz
 Nardm trowng tim jneinloaif
 Nardm tren kownduadng zeibn ta toirz jaztrif Kownwuaid...
-Boirsvid Vieftnam homnay
-Lad Vieftnam cozng Mib
-Cuzngtoi gaizn tren vai haidntrang narfngned kuas thezkis
-Des bafn bidngteim buacvaod wuabngkuars Turfzow...
+Boirxvid Vieftnam homnay
+Lad Vieftnam chozng Mib
+Chuzngtoi gaizn tren vai haidntrang narfngned kuax thezkix
+Dex bafn bidngteim buakvaod wuabngkuarx Turfzow...
 
 Bafn dezn dei
-Dab kowz Bac Hod
+Dab kowz Bak Hod
 Vad Jneinzein toi sarbnsadng dowzn bafn
 Zoub Wuaid divarzng
-Bafn kowzthes dezn jnad Wuaid tharm moft khowzm hoa
-Roid kudngjnein zein toi trowdcuiefn
-Jneinzein toi deis tidngyieu mezn
-Dab duafc Wuaid zarfnzowd truac fut di xa...
+Bafn kowzthex dezn jnad Wuaid tharm moft khowzm hoa
+Roid kudngjnein zein toi trowdchuiefn
+Jneinzein toi deix tidngyieu mezn
+Dab duafk Wuaid zarfnzowd truak fut di xa...
 
-Bafn hoiws vidsao kuzng toi ieuquyz Bac Hod
-Boirsvid Wuaid lad Wuaid doudtien
-Ved voirz Deitnuac cuzngtoi
-Mang cuswiab Mac-Le nin
-Cuarz trowng traiztim ieunuac jneit
+Bafn hoiwx vidsao kuzng toi ieuquyz Bak Hod
+Boirxvid Wuaid lad Wuaid doudtien
+Ved voirz Deitnuak chuzngtoi
+Mang chuxwiabmak-Le nin
+Chuarz trowng traiztim ieunuak jneit
 Khi Wuaid darft tay len
 Howdn deit Vieftnam doud bienjoirz
 Thid turddowz
-Deit khongfais lad deit nuarb
-Deit lad cieznhaod
+Deit khongfaix lad deit nuarb
+Deit lad chieznhaod
 Deit lad kafmbeib
 Deit lad hoa traiz
-Nuoi cuzngtoi, cae cuzngtoi keidm suzng lenduadng!
+Nuoi chuzngtoi, chae chuzngtoi keidm suzng lenduadng!
 
-Kowzwuaid, cuzngtoi kowz laif Hudngvuang
-Kowz laif zazng bup saen widnnarm kuas cuad Moft Koft
+Kowzwuaid, chuzngtoi kowz laif Hudngvuang
+Kowz laif zazng bup saen widnnarm kuax chuad Moft Koft
 Vad jnurbng bup saen miednnam teifn budnleid Dodng Thap
 Kowzwuaid, kubng dab thaidn thor
-Kowzwuaid, moib muibten dodng Kosloa
-Khong ciuf vuid zuaiz deit
-Khong nardm ien trowng viefn baostadng
-Cuzngbay len xaez jowz thoirdjan
-Mors hetduadng bay qua tharngtreidm lifxsurs
-Des karzm vaod doud jarfc Mib!
+Kowzwuaid, moib muibten dodng Koxloa
+Khong chiuf vuid zuaiz deit
+Khong nardm ien trowng viefnbaoxtadng
+Chuzngbay len xaez jowz thoirdjan
+Morx hetduadng bay qua tharngtreidm lifksurx
+Dex karzm vaod doud jarfk Mib!
 Kowzwuaid, fow Bodtat widn tay widn mart
-Biet toas haodquang turd hadng cufc kaizntay
-Kowzwuaid, fow Bodtat trieud Liz cis kowdn doud
-Veibn wuienvaefn trowng lowdng cuzngtoi jnord buiztowc thoird vua Hudng deslaif
-Vad fow Kimkuang tren doi cein vurbngcaib
+Biet toax haodquang turd hadng chufk kaizntay
+Kowzwuaid, fow Bodtat trieud Liz chix kowdn doud
+Veibn wuienvaefn trowng lowdng chuzngtoi jnord buiztowk thoird vua Hudng dexlaif
+Vad fow Kimkuang tren doi chein vurbngchaib
 Zoub meit doud veibn jurb moft zazng durzng Vieftnam
-Deiz, Deitnuac cuzngtoi dosvorb bietbao leidn
-(Kas jnurbng fow turdbi kubng khong woaid hoafnnafn
-Jnurng kowzwuaid, jnurbng kaiz meit di fais tras ved hidngzazng)
-Quazkhurz duafc jnidn turd doi mart Homnay
+Deiz, Deitnuak chuzngtoi doxvorb bietbao leidn
+(Kax jnurbng fow turdbi kubng khong woaid hoafnnafn
+Jnurng kowzwuaid, jnurbng kaiz meit di faix trax ved hidngzazng)
+Quazkhurz duafk jnidn turd doi mart Homnay
 Vad Homnay turd doi mart Waydmai
-Cuzngtoi sozng bardng Tuanglai moft nuars
+Chuzngtoi sozng bardng Tuanglai moft nuarx
 Bardng tidngyieu vohafn jnurbng kownwuaid
-Jnur Homnay jnidn Deitnuac kart doi
-Cuzngtoi dab theiz wayd hadngarzn...
+Jnur Homnay jnidn Deitnuak kart doi
+Chuzngtoi dab theiz wayd hadngarzn...
 
-Boirsvid Wuaid lad wuaid doudtien
+Boirxvid Wuaid lad wuaid doudtien
 Ieu miednnam trowng traiztim midng
-Ieu tuoistraes miednnam 25 narm
-Cuar kowz duafc wayd haifnfuc
+Ieu tuoixtraex miednnam 25 narm
+Chuar kowz duafk wayd haifnfuk
 
-Mad Wuaid zayf cuzngtoi
-Hayb bedngan daiznjarfc
-Zoub fais cet kubng khong khueitfufc:
-“Khongkowz jid quyz horn Dofcleifp, Turfzow!”
+Mad Wuaid zayf chuzngtoi
+Hayb bedngan daiznjarfk
+Zoub faix chet kubng khong khueitfufk:
+“Khongkowz jid quyz horn Dofkleifp, Turfzow!”
 
-Cuzngtoi lad kowncauz Bac Hod
-Kowzwiab lad cuzngtoi jozng Bac
+Chuzngtoi lad kownchauz Bak Hod
+Kowzwiab lad chuzngtoi jozng Bak
 Jnurbng jid kowdn nownnort
-Cuzngtoi howfcteifp des sozng, ciezndouz jnur Wuaid
+Chuzngtoi howfkteifp dex sozng, chiezndouz jnur Wuaid
 
-Boirsvid Wuaid lad deitnuac kuas cuzngtoi
-Moib soirf towc trarzng kuas Wuaid deud gi wayd jankhos jneit
-Kuas Deitnuac, jnurbng narm zaid daiznjarfc
-Doi zaep kuas Wuaid mowdnvaeft gowt
-Wuaid dab di jnurbng was duadngdeit Nuac haidnquein
+Boirxvid Wuaid lad deitnuak kuax chuzngtoi
+Moib soirf towk trarzng kuax Wuaid deud gi wayd jankhox jneit
+Kuax Deitnuak, jnurbng narm zaid daiznjarfk
+Doi zaep kuax Wuaid mowdnvaeft gowt
+Wuaid dab di jnurbng wax duadngdeit Nuak haidnquein
 
 Traiz kad Wuaid arn
 Kubng lad traiz kad nuoi wuaid ainhudng doudtien - Thaiznjowzng
 Kei geif Wuaid keidm
-Kubng kowzthes tidm trowng trarmwadn geif vuaft Truadngsorn
-Izciz kuas Wuaid
-Izciz toadnzein tofc
-Liztuasng kuas Wuaid
-Surf sozng cuzngtoi mang...
-Hod Cizming - Vieftnam
+Kubng kowzthex tidm trowng trarmwadn geif vuaft Truadngsorn
+Izchiz kuax Wuaid
+Izchiz toadnzein tofk
+Liztuaxng kuax Wuaid
+Surf sozng chuzngtoi mang...
+Hodchizming - Vieftnam
 Bafn vad toi kudng goiwf
-Hod Cizming - Vieftnam
+Hodchizming - Vieftnam
 
          *
 
 Aem wae khong traiz thif dab roir xuozngtay Wuaid
-Traiz khong cis roir vid surchut deitdai
-Traiz roir vid tay Wuaid aoyuac
-Khi traiz cafm vaod tay Wuaid vad Wuaid eipyus
-Thid lurdng huang tay Wuaid vad Wuaid eipyus
-Thid Lurdng huang vad ko Teizm buacra
-Di trasthud vad sozng Turfzow...
+Traiz khong chix roir vid surckhut deitdai
+Traiz roir vid tay Wuaid aoyuak
+Khi traiz chafm vaod tay Wuaid vad Wuaid eipyux
+Thid lurdng huang tay Wuaid vad Wuaid eipyux
+Thid Lurdng huang vad ko Teizm buakra
+Di traxthud vad sozng Turfzow...
 Khong roir xuozng budn, oi traiz thif que ta
-Des budn leizm vad thaidn budn vafnkiep
+Dex budn leizm vad thaidn budn vafnkiep
 Roir vaod tay Wuaid, dowz lad difnglueift
-Kuas douztrain vad jneinwiab Vieftnam
+Kuax douztrain vad jneinwiab Vieftnam
 
-Tuoistraes oir trowng suangjowz thazngnarm
-Ta dab lorzn roid, cizn deid hivowfng
-Hayb wab xuozngtay Jneinzein, hoirb sarc vadng kuas narzng
-Hoirb huangthorm kuas nodng marfn modhoi..
+Tuoixtraex oir trowng suangjowz thazngnarm
+Ta dab lorzn roid, chizn deid hivowfng
+Hayb wab xuozngtay Jneinzein, hoirb sark vadng kuax narzng
+Hoirb huangthorm kuax nodng marfn modhoi..
 
 Hayb wab vaod tay Jneinzein, durdng vaib durdng roir
 Durdng turfzow, durdng hoaidwi nuarb
-Hayb ieu Jneinzein vad wae Wuaid jnarznjnus
-Hayb tidm surcmaifn midng trenkor thesjnein zein
+Hayb ieu Jneinzein vad wae Wuaid jnarznjnux
+Hayb tidm surkmaifn midng trenkor thexjnein zein
 Jneinzein dang dilen doifwub trudngtrudng
-Thez voteifn kuas widnnarm jiet jarfc
-Luars dab cayz hodnghaod marftdeit
-Muad cizn tidngyieu, muad cizn heifnthud!
+Thez voteifn kuax widnnarm jiet jarfk
+Luarx dab chayz hodnghaod marftdeit
+Muad chizn tidngyieu, muad chizn heifnthud!
 
-- Khong baojord xuangmauz fais borvor
+- Khongbaojord xuangmauz faix borvor
 Oi songnuiz wi wadnzarfm deit
-Kowz waetiezng cuzngkown: Xin kowzmarft
-Wuiefn ladmwuaid xungkix kuas quehuang
-Dei tiezng hat cuzngkown:
+Kowz waetiezng chuzngkown: Xin kowzmarft
+Wuiefn ladmwuaid xungkik kuax quehuang
+Dei tiezng hat chuzngkown:
 Tiezng hat xuozngduadng!

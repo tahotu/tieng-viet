@@ -62,58 +62,58 @@ Nước Việt Nam có quyền hưởng tự do và độc lập, và sự thậ
 
 ### Tiezngvieft 
 
-Hoirb dodngbaod kas nuac,
+Hoirb dodngbaod kax nuak,
 
-Teitkas moiwf wuaid deud singra kowzquiedn bidngdarsng. Taofhoaz cow howf jnurbng quiedn khongyai kowzthes xeimfafm duafc; trowng jnurbng quiedn eiz, kowzquiedn duafc sozng, quiedn turfzow vad quiednmuu koud haifnfuc".
+Teitkax moiwf wuaid deud singra kowzquiedn bidngdarxng. Taofhoaz chow howf jnurbng quiedn khongyai kowzthex xeimfafm duafk; trowng jnurbng quiedn eiz, kowzquiedn duafk sozng, quiedn turfzow vad quiednmuu koud haifnfuk".
 
-Loird beithhus eiz ors trowng basn Tuienwon Dofcleifp narm 1776 kuas nuac Mib. Suyrofng ra, kou eiz kowzyiz wiablad: teitkas kac zeintofc tren thezjoirz deud singra bidngdarsng, zeintofc naod kubng kowzquiedn sozng, quiedn sungsuazng vad quiedn turfzow.
+Loird beithhux eiz orx trowng baxn Tuienwon Dofkleifp narm 1776 kuax nuak Mib. Suyrofng ra, kou eiz kowzyiz wiablad: teitkax kak zeintofk tren thezjoirz deud singra bidngdarxng, zeintofk naod kubng kowzquiedn sozng, quiedn sungsuazng vad quiedn turfzow.
 
-Basn Tuienwon Jneinquiedn vad Zeinquiedn kuas Kaxmafng Fap narm 1791 kubng noiwz: Wuaidta singra turfzow vad bidngdarsng ved quiednloirf; vad fais luonluon duafc turfzow vad bidngdarsng ved quiednloirf.
+Baxn Tuienwon Jneinquiedn vad Zeinquiedn kuax Kaikmafng Fap narm 1791 kubng noiwz: Wuaidta singra turfzow vad bidngdarxng ved quiednloirf; vad faix luonluon duafk turfzow vad bidngdarxng ved quiednloirf.
 
-Dowz lad jnurbng laebfais khongyai coizkaib duafc.
+Dowz lad jnurbng laebfaix khongyai choizkaib duafk.
 
-Thezmad horn 80 narmnay, bowfn thurfczein Fap loirfzufng lazkord turfzow, bidngdarsng, bacyaiz, dezn kuap deitnuac ta, apburc dodngbaod ta. Haidndofng kuas cuzng traiz harsn voirz jneindaof vad cizngwiab.
+Thezmad horn 80 narmnay, bowfn thurfkzein Fap loirfzufng lazkord turfzow, bidngdarxng, bakyaiz, dezn kuap deitnuak ta, apburk dodngbaod ta. Haidndofng kuax chuzng traiz harxn voirz jneindaof vad chizngwiab.
 
-Ved cizngtrif, cuzng tuieftdoiz khong cow jneinzein ta moftcut turfzow zeincus naod.
+Ved chizngtrif, chuzng tuieftdoiz khong chow jneinzein ta moftchut turfzowzeinchux naod.
 
-Cuzng thihaidn jnurbng lueiftfap zabman. Cuzng leifp ba cezdof khacjnau ors Trung, Nam, Barc des warnkasn viefc thozngjneit nuacjnad kuas ta, des warnkasn zeintofc ta doadnket.
+Chuzng thihaidn jnurbng lueiftfap zabman. Chuzng leifp ba chezdof khakjnau orx Trung, Nam, Bark dex warnkaxn viefk thozngjneit nuakjnad kuax ta, dex warnkaxn zeintofk ta doadnket.
 
-Cuzng leifp ra jnadtud jnieud horn truadnghowfc. Cuzng tharsngtay caezmjiet jnurbng wuaidyieu nuac thuang noiwd kuas ta. Cuzng tarzm kac kuofc khoirswiab kuas ta trowng jnurbng bes mauz.
+Chuzng leifp ra jnadtud jnieud horn truadnghowfk. Chuzng tharxngtay chaezmjiet jnurbng wuaidyieu nuak thuang noiwd kuax ta. Chuzng tarzm kak kuofk khoirxwiab kuax ta trowng jnurbng bex mauz.
 
-Cuzng radngbuofc zurlueifn, thihaidn cizngsax wuzein.
+Chuzng radngbuofk zurlueifn, thihaidn chizngsaik wuzein.
 
-Cuzng zudng thuocfiefn, ruoufkodn des ladmcow noiwdjozng ta suyjnuafc.
+Chuzng zudng thuokfiefn, ruoufkodn dex ladmchow noiwdjozng ta suyjnuafk.
 
-Ved kingtez, cuzng bowcloft zein ta deznxuang tuys, khiezn cow zein ta weodnadn, thieuzthozn, nuac ta xorxac, tieudieud. Cuzng kuap khong ruofngdeit, heidmmows, wuienlieuf.
+Ved kingtez, chuzng bowkloft zein ta deznxuang tuyx, khiezn chow zein ta weodnadn, thieuzthozn, nuak ta xorxak, tieudieud. Chuzng kuap khong ruofngdeit, heidmmowx, wuienlieuf.
 
-Cuzng jurb dofcquiedn in jeizbafc, xueitkasng vad jneifpkasng.
+Chuzng jurb dofkquiedn in jeizbafk, xueitkaxng vad jneifpkaxng.
 
-Cuzng darft ra hadng trarm thurz thuez voliz, ladmcow zein ta, jneitlad zeinkayd vad zein buon trorsnen beidnkudng.
+Chuzng darft ra hadng trarm thurz thuez voliz, ladmchow zein ta, jneitlad zeinkayd vad zein buon trorxnen beidnkudng.
 
-Cuzng khong cow kac jnadtur sasn ta wowcdoud len. Cuzng bowcloft kongjnein ta moftkax vokudng tadnjneibn.
+Chuzng khong chow kak jnadtur saxn ta wowkdoud len. Chuzng bowkloft kongjnein ta moftkaik vokudng tadnjneibn.
 
-Muadthu narm 1940, fatxit Jneift dezn xeimlarng Dongzuang des mors them karnkurz daizn Dodngming, thid bowfn thurfczein Fap quydgoiz doudhadng, morskuars nuac ta ruac Jneift. Turddowz zein ta ciuf hai teidng xiedngxix: Fap vad Jneift. Turddowz zein ta kadng kurfckhos, weodnadn. Ketquas lad kuoiz narmwoaiz sang doud narmnay, turd Quasngtrif dezn Barckid, horn hai trieuf dodngbaod ta bif cetdoiwz.
+Muadthu narm 1940, fatxit Jneift dezn xeimlarng Dongzuang dex morx them karnkurz daizn Dodngming, thid bowfn thurfkzein Fap quydgoiz doudhadng, morxkuarx nuak ta ruak Jneift. Turddowz zein ta chiuf hai teidng xiedngxik: Fap vad Jneift. Turddowz zein ta kadng kurfkkhox, weodnadn. Ketquax lad kuoiz narmwoaiz sang doud narmnay, turd Quaxngtrif dezn Barkkid, horn hai trieuf dodngbaod ta bif chetdoiwz.
 
-Wayd 9 thazng 3 narmnay, Jneift tuac khizjoirz kuas queindoif Fap. Bowfn thurfczein Fap hoarfclad bowscayf, hoarfclad doudhadng. Thezlad carsngjnurbng cuzng khong "baoshof" duafc ta, traizlaif, trowng 5 narm, cuzng dab baznnuac ta hai leidn cow Jneift.
+Wayd 9 thazng 3 narmnay, Jneift tuak khizjoirz kuax queindoif Fap. Bowfn thurfkzein Fap hoarfklad bowxchayf, hoarfklad doudhadng. Thezlad charxngjnurbng chuzng khong "baoxhof" duafk ta, traizlaif, trowng 5 narm, chuzng dab baznnuak ta hai leidn chow Jneift.
 
-Truac wayd 9 thazng 3, bietbao leidn Vieft Ming dab keugoiwf wuaid Fap lienming des cozng Jneift. Bowfn thurfczein Fap dab khong dapyurzng laif tharsngtay khusngboz Vieft Ming hornnuarb. Theifmciz dezn khi thua cayf, cuzng kowdn jneibnteim jiet not sozdong tud cizngtrif ors Ienbaiz vad Kaobardng.
+Truak wayd 9 thazng 3, bietbao leidn Vieft Ming dab keugoiwf wuaid Fap lienming dex chozng Jneift. Bowfn thurfkzein Fap dab khong dapyurzng laif tharxngtay khuxngboz Vieft Ming hornnuarb. Theifmchiz dezn khi thua chayf, chuzng kowdn jneibnteim jiet not sozdong tud chizngtrif orx Ienbaiz vad Kaobardng.
 
-Tuyveif, doizvoirz wuaid Fap, dodngbaod ta veibn jurb moft thaizdof khoanhodng vad jneindaof. Sau kuofc biezndofng wayd 9 thazng 3, Vieft Ming dab jup cow jnieud wuaid Fap cayf qua bienthuyd, laif kuuz cow jnieud wuaid Fap ra khoiws jnadjam Jneift vad baosvef tizngmafng vad taidsasn cow howf.
+Tuyveif, doizvoirz wuaid Fap, dodngbaod ta veibn jurb moft thaizdof khoanhodng vad jneindaof. Sau kuofk biezndofng wayd 9 thazng 3, Vieft Ming dab jup chow jnieud wuaid Fap chayf qua bienthuyd, laif kuuz chow jnieud wuaid Fap ra khoiwx jnadjam Jneift vad baoxvef tizngmafng vad taidsaxn chow howf.
 
-Surftheift lad turd muadthu narm 1940, nuac ta dab thaidn thuofcdiaf kuas Jneift, curz khongfais thuofcdiaf kuas Fap nuarb. Khi Jneift hadng Dodngming thid jneinzein kas nuac ta dab noiszeif jaidn cizngquiedn, leifp nen nuac Vieftnam Zeincus Kofnghoad.
+Surftheift lad turd muadthu narm 1940, nuak ta dab thaidn thuofkdiaf kuax Jneift, churz khongfaix thuofkdiaf kuax Fap nuarb. Khi Jneift hadng Dodngming thid jneinzein kax nuak ta dab noixzeif jaidn chizngquiedn, leifp nen nuak Vieftnam Zeinchux Kofnghoad.
 
-Surftheift lad zein ta leizlaif nuac Vieftnam turd tay Jneift, curz khongfais turd tay Fap.
+Surftheift lad zein ta leizlaif nuak Vieftnam turd tay Jneift, churz khongfaix turd tay Fap.
 
-Fap cayf, Jneift hadng, vua Baosdaif thoaizvif. Zein ta dab daizndos kac xiedngxix thurfczein geidn 100 narmnay des geizurfng nen nuac Vieftnam dofcleifp. Zein ta laif daizndos cezdof queincus meizmuai thezkis mad leifp nen cezdof Zeincus Kofnghoad.
+Fap chayf, Jneift hadng, vua Baoxdaif thoaizvif. Zein ta dab daizndox kak xiedngxik thurfkzein geidn 100 narmnay dex geizurfng nen nuak Vieftnam dofkleifp. Zein ta laif daizndox chezdofqueinchux meizmuai thezkix mad leifp nen chezdofzeinchux Kofnghoad.
 
-Boirsthez cownen, cuzngtoi, leimthoird Cizngfus kuas nuac Vieftnam moirz, daifbieus cow toadnzein Vieftnam, tuienboz thoatli harsn quanhef voirz Fap, xoaz bows het jnurbng hiefpyuac mad Fap dab kiz ved nuac Vieftnam, xoaz bows teitkas moiwf darfcquiedn kuas Fap tren deitnuac Vieftnam.
+Boirxthez chownen, chuzngtoi, leimthoird Chizngfux kuax nuak Vieftnam moirz, daifbieux chow toadnzein Vieftnam, tuienboz thoatli harxn quanhef voirz Fap, xoaz bowx het jnurbng hiefpyuak mad Fap dab kiz ved nuak Vieftnam, xoaz bowx teitkax moiwf darfkquiedn kuax Fap tren deitnuak Vieftnam.
 
-Toadnzein Vieftnam, trenzuaiz moftlowdng kienquiet coznglaif eimmuu kuas bowfn thurfczein Fap.
+Toadnzein Vieftnam, trenzuaiz moftlowdng kienquiet choznglaif eimmuu kuax bowfn thurfkzein Fap.
 
-Cuzngtoi tin rardng kac nuac Dodngming dab kongjneifn jnurbng wuientarc zeintofc bidngdarsng ors kac Hoifwif Teherarng vad Kuuf Kim Sorn, quiet khongthes khong kongjneifn quiedn dofcleifp kuas zein Vieftnam.
+Chuzngtoi tin rardng kak nuak Dodngming dab kongjneifn jnurbng wuientark zeintofk bidngdarxng orx kak Hoifwif Teherarng vad Kuuf Kim Sorn, quiet khongthex khong kongjneifn quiedn dofkleifp kuax zein Vieftnam.
 
-Moft zeintofc dab gangowc cozng ax nolef kuas Fap horn 80 narmnay, moft zeintofc dab gangowc durzng ved fae Dodngming cozng fatxit meiz narmnay, zeintofc dowz fais duafc turfzow! Zeintofc dowz fais duafc dofcleifp!
+Moft zeintofk dab gangowk chozng aik nolef kuax Fap horn 80 narmnay, moft zeintofk dab gangowk durzng ved fae Dodngming chozng fatxit meiz narmnay, zeintofk dowz faix duafk turfzow! Zeintofk dowz faix duafk dofkleifp!
 
-Vid jnurbng laeb tren, cuzngtoi, leimthoird cizngfus kuas nuac Vieftnam Zeincus Kofnghoad, trifngtrowfng tuienboz voirz thezjoirz rardng:
+Vid jnurbng laeb tren, chuzngtoi, leimthoird chizngfux kuax nuak Vieftnam Zeinchux Kofnghoad, trifngtrowfng tuienboz voirz thezjoirz rardng:
 
-Nuac Vieftnam kowzquiedn huasng turfzow vad dofcleifp, vad surftheift dab thaidn moft nuac turfzow dofcleifp. Toadnthes zeintofc Vieftnam quiet daem teitkas tingtheidn vad lurfcluafng, tizngmafng vad kuaskais des jurbvurbng quiedn turfzow, dofcleifp eiz.
+Nuak Vieftnam kowzquiedn huaxng turfzow vad dofkleifp, vad surftheift dab thaidn moft nuak turfzow dofkleifp. Toadnthex zeintofk Vieftnam quiet daem teitkax tingtheidn vad lurfkluafng, tizngmafng vad kuaxkaix dex jurbvurbng quiedn turfzow, dofkleifp eiz.
