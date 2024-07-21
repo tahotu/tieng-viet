@@ -193,7 +193,7 @@ TBD:
 | xinh  |  xing |
 | xanh  |  xain |
 | huynh  |  huing |
-| quân  |  kuein |
+| quân  |  quein |
 | quyên  |  quien |
 | quây  |  quei |
 | quynh  |  quing |
@@ -202,8 +202,8 @@ TBD:
 | quang | quang |
 | cương | kuang |
 | giữ gìn | jurbjidn |
-| ngốc nghếch | wocwec |
-| sách vở | saicvorx  |
+| ngốc nghếch | wokwek |
+| sách vở | saikvorx  |
 
 
 ## Ví dụ
