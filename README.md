@@ -76,7 +76,7 @@ Homqua toi di zuthuiedn orx Haflowng, Quaxngning
 | p | p | - |
 | ng | ng | - |
 | t | th | * _Nếu phụ âm đầu của tiếng tiếp theo trong từ phức bắt đầu bằng "h", "r"_ <br> kết hôn  → kethhon, sốt rét → sothraet |
-| ch | c, ic | * _ic: Nếu nguyên âm cuối là "a"_ <br> ếch → ec, xích → xic, sách  → saic |
+| ch | k, ik | * _ik: Nếu nguyên âm cuối là "a"_ <br> ếch → ek, xích → xik, sách  → saik |
 | nh | ng, in | * _ng: Nếu nguyên âm cuối cùng là "ê", "i"_ <br>*  _in: Nếu nguyên âm cuối cùng là "a"_ <br> mênh → meng, xinh  → xing, xanh  → xain |
 
 - Các từ phức **viết liền không dấu cách**
