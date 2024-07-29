@@ -189,8 +189,12 @@ class TiengViet {
             // Phu am dau
             if (fufyeimDoud === "g" && wuienyeim.startsWith("i")) {
                 fufyeimDoud = "gi";
-                if (wuienyeim.length > 1 && wuienyeim[1] != 'ê') {
-                    wuienyeim = wuienyeim.slice(1);
+                
+                // Co nguyem am khac ngoai i
+                if (wuienyeim.length > 1){
+                    if (wuienyeim[1] != 'ê' || fufyeimKuoiz === "") {
+                        wuienyeim = wuienyeim.slice(1);
+                    }
                 }
             }
 
@@ -320,6 +324,9 @@ class TiengViet {
             ["quang", "quang"],
             ["cương", "kuang"],
             ["giữ_gìn", "jurbjidn"],
+            ["giết", "jiet"],
+            ['tháng_giêng', "thazngjieng"],
+            ["giê_su", "jesu"],
             ["ngốc_nghếch", "wokwek"],
             ["sách_vở", "saikvorx"],
             ["kết_hôn", "kethhon"],
