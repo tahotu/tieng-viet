@@ -266,5 +266,6 @@ hoarfklad dam muid ruoufwowft, hoarfklad me tiezng hat hay.
 ### Các ví dụ khác
 
 - [Tỉnh thành Việt Nam](./vizzuf/md/tinhthanh.md)
+- [Các quốc gia và vùng lãnh thổ](./vizzuf/md/quocgia.md)
 
 Xem thêm: https://tahotu.github.io/tieng-viet/vizzuf/html/
