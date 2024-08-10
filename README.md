@@ -176,7 +176,7 @@ Mai an  → Maiyan
 | á (sắc) | z | cá → kaz, chính → cizng |
 | ả (hỏi) | x | tả → tax, chảnh → caixn |
 | ã (ngã) | b | mã → mab, huyễn → huiebn |
-| ạ (nặng) | f | cộng → kofng, thạch → thaifc |
+| ạ (nặng) | f | cộng → kofng, thạch → thaifk |
 
 
 ### Phiên âm tiếng nước ngoài.
