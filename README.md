@@ -75,7 +75,7 @@ Homqua toi di zuthuiedn orx Haflowng, Quaxngning
 | n | n | - |
 | p | p | - |
 | ng | ng | - |
-| t | th | * _Nếu phụ âm đầu của tiếng tiếp theo trong từ phức bắt đầu bằng "h", "r"_ <br> kết hôn  → kethhon, sốt rét → sothraet |
+| t | th | * _Nếu phụ âm đầu của tiếng tiếp theo trong từ phức bắt đầu bằng "h", "r"_ <br> kết hôn  → kethhon, sốt rét → sothreat |
 | ch | k, ik | * _ik: Nếu nguyên âm cuối là "a"_ <br> ếch → ek, xích → xik, sách  → saik |
 | nh | ng, in | * _ng: Nếu nguyên âm cuối cùng là "ê", "i"_ <br>*  _in: Nếu nguyên âm cuối cùng là "a"_ <br> mênh → meng, xinh  → xing, xanh  → xain |
 
@@ -97,7 +97,7 @@ Mai an  → Maiyan
 | a | a | - |
 | ă | ar | săn  → sarn |
 | â  | ei | sân  → sein |
-| e | ae | se  → sae |
+| e | ea | se  → sea |
 | ê | e | sê  → se |
 | i/y | i | ly  → li |
 | o | ow | so -> sow |
@@ -130,7 +130,7 @@ Mai an  → Maiyan
 | oo | oow | - |
 | ôô | oo | ### |
 | ua | ua | - |
-| ue | uae | quen  → quaen |
+| ue | uea | quen  → quean |
 | uâ | uei | xuân  → xuein |
 | ưa | uar | trưa  → truar |
 | uê | ue | xuê  → xue |
@@ -198,7 +198,7 @@ TBD:
 | quây  |  quei |
 | quynh  |  quing |
 | quên  |  quen |
-| quen  |  quaen |
+| quen  |  quean |
 | quang | quang |
 | cương | kuang |
 | giữ gìn | jurbjidn |
@@ -214,7 +214,7 @@ TBD:
 tấm_lòng đau như bị đâm, vẫn lấy cái sự chưa thể ăn thịt nằm da,
 nuốt gan uống máu của chúng làm tức.
 
-Ta thuadng thid toirz buarb quen arn, juarb dem vob goiz, nuakmart tradn xuozng deid maep,
+Ta thuadng thid toirz buarb quen arn, juarb dem vob goiz, nuakmart tradn xuozng deid meap,
 teizmlowdng dau jnur bif deim, veibn leiz kaiz surf chuar thex arnthift nardm za,
 nuot gan uozng mauz kuax chuzng ladm turk.
 
@@ -222,8 +222,8 @@ nuot gan uozng mauz kuax chuzng ladm turk.
 > Dẫu cho một trăm cái thân của ta phải đem đốt ở đồng_cỏ,
 một nghìn cái thân của ta phải đem bọc vào da ngựa, ta cũng vui_lòng.
 
-Zoub chow moft trarm kaiz thein kuax ta faix daem dot orx dodngkowx,
-moft widn kaiz thein kuax ta faix daem bowfk vaod za wuarf, ta kubng vuilowdng.
+Zoub chow moft trarm kaiz thein kuax ta faix deam dot orx dodngkowx,
+moft widn kaiz thein kuax ta faix deam bowfk vaod za wuarf, ta kubng vuilowdng.
 
 > Các ngươi lâu_nay ở dưới cửa ta cầm_giữ binh_quyền, thiếu áo thì mặc áo cho,
 thiếu ăn thì sẻ cơm đỡ, quan nhỏ thì cho lên chức, bổng ít cho thêm lương,
@@ -232,7 +232,7 @@ những khi trận_mạc, sự sống_thác thầy chung với trò, những lú
 tiếng vui cười ai cũng như nấy.
 
 Kak wuai lounay orx zuaiz kuarx ta keidmjurb bingquiedn, thieuz aoz thid marfk aoz chow,
-thieuz arn thid saex korm dorb, quan jnowx thid chow lenchurk, boxng it chow them luang,
+thieuz arn thid seax korm dorb, quan jnowx thid chow lenchurk, boxng it chow them luang,
 di thuyx keip thuiedn, dibof keip wuarf,
 jnurbng khi treifnmafk, surf sozngthak theid chung voirz trowd, jnurbng luk murdngkhao,
 tiezng vuikuaid ai kubngjnur neiz.
@@ -241,26 +241,24 @@ tiezng vuikuaid ai kubngjnur neiz.
 
 Sowvoirz Kongkien ladm churk thienliz, Woftwaif orx woi fowzjnif, kowzkhak jid dou.
 
-
-
 > Thế_mà các ngươi thấy chủ bị nhục chẳng lấy làm lo,
 gặp nước bị dơ chẳng lấy làm thẹn, làm tướng nhà_nước phải hầu mấy đứa chum_mường,
 mà không có lòng căm_hờn, nghe khúc_nhạc thờ đem thết một tên ngụy_sứ, mà không có_vẻ tức_giận;
 
 Thezmad kak wuai theiz chux bif jnufk charxng leizladm low,
-garfp nuak bif zor charxng leizladm thaefn, ladm tuazng jnadnuak faix houd meiz duarz chummuadng,
-mad khongkowz lowdng karmhordn, wae khukjnafk thord daem thet moft ten wuyfsurz, mad khong kowzvaex turkjeifn;
+garfp nuak bif zor charxng leizladm theafn, ladm tuazng jnadnuak faix houd meiz duarz chummuadng,
+mad khongkowz lowdng karmhordn, wea khukjnafk thord deam thet moft ten wuyfsurz, mad khong kowzveax turkjeifn;
 
 > kẻ thì chọi gà cho thích, kẻ thì đánh_bạc mua_vui, có người chỉ chăm vườn_ruộng, cốt nuôi được nhà;
 có người chỉ mến vợ_con, lấy mình làm trọng; cũng có kẻ chỉ lo làm giàu làm có,
 
-kaex thid choiwfgad chow thik, kaex thid daiznbafk muavui, kowzwuaid chix charm vuadnruofng, kot nuoi duafk jnad;
-kowzwuaid chix mezn vorfkown, leiz midng ladm trowfng; kubng kowz kaex chix low ladmjaud ladm kowz,
+keax thid choiwfgad chow thik, keax thid daiznbafk muavui, kowzwuaid chix charm vuadnruofng, kot nuoi duafk jnad;
+kowzwuaid chix mezn vorfkown, leiz midng ladm trowfng; kubng kowz keax chix low ladmjaud ladm kowz,
 
 > việc quân_quốc chẳng thèm đoái_hoài, cũng có người chỉ ham về săn_bắn mà quên việc binh,
 hoặc là đam mùi rượu ngọt, hoặc là mê tiếng hát hay.
 
-viefk queinquok charxng thaedm doaizhoaid, kubng kowzwuaid chix ham ved sarnbarzn mad quen viefk bing,
+viefk queinquok charxng theadm doaizhoaid, kubng kowzwuaid chix ham ved sarnbarzn mad quen viefk bing,
 hoarfklad dam muid ruoufwowft, hoarfklad me tiezng hat hay.
 
 ### Các ví dụ khác

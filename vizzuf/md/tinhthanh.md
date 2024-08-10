@@ -8,7 +8,7 @@
 | 4 | Bắc Giang | Barkjang |
 | 5 | Bắc Kạn | Barkkafn |
 | 6 | Bắc Ninh | Barkning |
-| 7 | Bến Tre | Bezntrae |
+| 7 | Bến Tre | Bezntrea |
 | 8 | Bình Định | Bidngdifng |
 | 9 | Bình Dương | Bidngzuang |
 | 10 | Bình Phước | Bidngfuak |

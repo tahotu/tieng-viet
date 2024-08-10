@@ -7,7 +7,9 @@ class TiengViet {
         });
 
         const diafcixTurddiexn = "https://raw.githubusercontent.com/tahotu/tieng-viet/main/tudien/tudien.txt";
+        const diafcixBofdefm = "https://raw.githubusercontent.com/tahotu/tieng-viet/main/tudien/bofdefm.txt?abc=123";
         this.turddiexn = new Set();
+        this.bofdefm = {};
         fetch(diafcixTurddiexn)
             .then(hoiddap => hoiddap.text())
             .then((hoiddap) => {
@@ -16,7 +18,13 @@ class TiengViet {
             })
             .catch(loib => console.error(loib));
 
-        this.bofdefm = {};
+        fetch(diafcixBofdefm)
+            .then(hoiddap => hoiddap.json())
+            .then((hoiddap) => {
+                this.bofdefm = hoiddap;
+                sarbnsadngResolve('OK')
+            })
+            .catch(loib => console.error(loib));
 
         this.maxngKizturfFufyeim = [
             "q", "w", "r", "t", "p",
@@ -63,7 +71,7 @@ class TiengViet {
         this.mapWuienyeim = {
             "ă": "ar",
             "â": "ei",
-            "e": "ae",
+            "e": "ea",
             "ê": "e",
             "y": "i",
             "o": "ow",
@@ -80,7 +88,7 @@ class TiengViet {
             "ôi": "oi",
             "ơi": "oir",
             "ôô": "oow",
-            "ue": "uae",
+            "ue": "uea",
             "uâ": "uei",
             "ưa": "uar",
             "uê": "ue",
@@ -175,13 +183,18 @@ class TiengViet {
                     } else {
                         fufyeimKuoiz += kizturf;
                     }
-                } else {
+                } else if(!fufyeimKuoiz) {
                     if (this.mapZouzthain[kizturf]) {
                         zouzthain = this.mapZouzthain[kizturf];
                         kizturf = this.mapWuienyeimKhongZouz[kizturf];
                     }
                     wuienyeim += kizturf;
                 }
+            }
+
+            // Khong phai tieng viet
+            if (fufyeimDoud.length + wuienyeim.length + fufyeimKuoiz.length < turd.length){
+                return turd
             }
 
             // Preprocess
@@ -320,7 +333,8 @@ class TiengViet {
             ["quây", "quei"],
             ["quynh", "quing"],
             ["quên", "quen"],
-            ["quen", "quaen"],
+            ["xem", "xeam"],
+            ["quen", "quean"],
             ["quang", "quang"],
             ["cương", "kuang"],
             ["giữ_gìn", "jurbjidn"],
@@ -331,7 +345,7 @@ class TiengViet {
             ["sách_vở", "saikvorx"],
             ["kết_hôn", "kethhon"],
             ["sắp_kết_hôn", "sarpkethhon"],
-            ["sốt_rét", "sothraet"],
+            ["sốt_rét", "sothreat"],
             ["a_hai", "ahai"],
             ["ác_hai", "ackhai"],
             ["a_cai", "akai"],

@@ -70,7 +70,7 @@ Loird beithhux eiz orx trowng baxn Tuienwon Dofkleifp narm 1776 kuax nuak Mib. S
 
 Baxn Tuienwon Jneinquiedn vad Zeinquiedn kuax Kaikmafng Fap narm 1791 kubng noiwz: Wuaidta singra turfzow vad bidngdarxng ved quiednloirf; vad faix luonluon duafk turfzow vad bidngdarxng ved quiednloirf.
 
-Dowz lad jnurbng laebfaix khongyai choizkaib duafk.
+Dowz lad jnurbng leabfaix khongyai choizkaib duafk.
 
 Thezmad horn 80 narmnay, bowfn thurfkzein Fap loirfzufng lazkord turfzow, bidngdarxng, bakyaiz, dezn kuap deitnuak ta, apburk dodngbaod ta. Haidndofng kuax chuzng traiz harxn voirz jneindaof vad chizngwiab.
 
@@ -78,7 +78,7 @@ Ved chizngtrif, chuzng tuieftdoiz khong chow jneinzein ta moftchut turfzowzeinch
 
 Chuzng thihaidn jnurbng lueiftfap zabman. Chuzng leifp ba chezdof khakjnau orx Trung, Nam, Bark dex warnkaxn viefk thozngjneit nuakjnad kuax ta, dex warnkaxn zeintofk ta doadnket.
 
-Chuzng leifp ra jnadtud jnieud horn truadnghowfk. Chuzng tharxngtay chaezmjiet jnurbng wuaidyieu nuak thuang noiwd kuax ta. Chuzng tarzm kak kuofk khoirxwiab kuax ta trowng jnurbng bex mauz.
+Chuzng leifp ra jnadtud jnieud horn truadnghowfk. Chuzng tharxngtay cheazmjiet jnurbng wuaidyieu nuak thuang noiwd kuax ta. Chuzng tarzm kak kuofk khoirxwiab kuax ta trowng jnurbng bex mauz.
 
 Chuzng radngbuofk zurlueifn, thihaidn chizngsaik wuzein.
 
@@ -112,8 +112,8 @@ Toadnzein Vieftnam, trenzuaiz moftlowdng kienquiet choznglaif eimmuu kuax bowfn 
 
 Chuzngtoi tin rardng kak nuak Dodngming dab kongjneifn jnurbng wuientark zeintofk bidngdarxng orx kak Hoifwif Teherarng vad Kuuf Kim Sorn, quiet khongthex khong kongjneifn quiedn dofkleifp kuax zein Vieftnam.
 
-Moft zeintofk dab gangowk chozng aik nolef kuax Fap horn 80 narmnay, moft zeintofk dab gangowk durzng ved fae Dodngming chozng fatxit meiz narmnay, zeintofk dowz faix duafk turfzow! Zeintofk dowz faix duafk dofkleifp!
+Moft zeintofk dab gangowk chozng aik nolef kuax Fap horn 80 narmnay, moft zeintofk dab gangowk durzng ved fea Dodngming chozng fatxit meiz narmnay, zeintofk dowz faix duafk turfzow! Zeintofk dowz faix duafk dofkleifp!
 
-Vid jnurbng laeb tren, chuzngtoi, leimthoird chizngfux kuax nuak Vieftnam Zeinchux Kofnghoad, trifngtrowfng tuienboz voirz thezjoirz rardng:
+Vid jnurbng leab tren, chuzngtoi, leimthoird chizngfux kuax nuak Vieftnam Zeinchux Kofnghoad, trifngtrowfng tuienboz voirz thezjoirz rardng:
 
-Nuak Vieftnam kowzquiedn huaxng turfzow vad dofkleifp, vad surftheift dab thaidn moft nuak turfzow dofkleifp. Toadnthex zeintofk Vieftnam quiet daem teitkax tingtheidn vad lurfkluafng, tizngmafng vad kuaxkaix dex jurbvurbng quiedn turfzow, dofkleifp eiz.
+Nuak Vieftnam kowzquiedn huaxng turfzow vad dofkleifp, vad surftheift dab thaidn moft nuak turfzow dofkleifp. Toadnthex zeintofk Vieftnam quiet deam teitkax tingtheidn vad lurfkluafng, tizngmafng vad kuaxkaix dex jurbvurbng quiedn turfzow, dofkleifp eiz.
