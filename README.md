@@ -30,7 +30,6 @@ Dei lad kaik viet khak chow tiezngvieft
 Homqua toi di zuthuiedn orx Haflowng, Quaxngning
 
 
-
 ## Quy tắc
 
 ### Đổi phụ âm
@@ -137,9 +136,9 @@ Mai an  → Maiyan
 | ui | ui | - |
 | ưi | uir | mưi  → muir |
 | uo | uow | ### |
-| uô | uo | chuông  → cuong |
+| uô | uo | chuông  → chuong |
 | uơ | uor | huơ  → huor |
-| ươ | ua | hương  → huang |
+| ươ | ua | hương  → huorng |
 | ưu | uu | hưu  → huu |
 | uy | uy, ui | suy  → suy, huynh  → huing |
 
@@ -166,17 +165,18 @@ Mai an  → Maiyan
 
 ### Đổi dấu thanh
 
-- Đổi dấu thanh bằng ký tự
-- Ký tự dấu đứng sau vần, trước phụ âm cuối
+- Đổi dấu thanh
+- Đánh theo thứ tự ưu tiên a, e, o, u, i
+- Đánh ở nguyên âm cuối
 
 
 | Dấu thanh | Mới | ví dụ |
 | - | - | - |
-| à (huyền) | d | hà → had, lừa → luard |
-| á (sắc) | z | cá → kaz, chính → cizng |
-| ả (hỏi) | x | tả → tax, chảnh → caixn |
-| ã (ngã) | b | mã → mab, huyễn → huiebn |
-| ạ (nặng) | f | cộng → kofng, thạch → thaifk |
+| à (huyền) | à | hà → hà, lừa → luàr |
+| á (sắc) | á | cá → ká, chính → chíng |
+| ả (hỏi) | â | tả → tâ, chảnh → châin |
+| ã (ngã) | ā | mã → mā, huyễn → huiēn |
+| ạ (nặng) | ä | cộng → köng, thạch → thäik |
 
 
 ### Phiên âm tiếng nước ngoài.
