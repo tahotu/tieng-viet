@@ -120,27 +120,27 @@ Mai an  → Maiyan
 | êu | eu | lêu  → leu |
 | ia | ia | - |
 | iê/yê | ie | yên  → ien |
-| iu | iu | - |
-| oa | oa | - |
-| oă | oar | xoăn  → xoarn |
+| iu | iu | il |
+| oa | wa | wa |
+| oă | war | xoăn  → xwarn |
 | oi | oiw | soi → soiw |
 | ôi | oi | xôi  → xoi |
 | ơi | oir | xơi  → xoir |
 | oo | oow | - |
 | ôô | oo | ### |
 | ua | ua | - |
-| ue | uea | quen  → quean |
-| uâ | uei | xuân  → xuein |
+| ue | wea | quen  → qwean |
+| uâ | wei | xuân  → xwein |
 | ưa | uar | trưa  → truar |
-| uê | ue | xuê  → xue |
+| uê | we | xuê  → xwe |
 | ui | ui | - |
 | ưi | uir | mưi  → muir |
 | uo | uow | ### |
 | uô | uo | chuông  → chuong |
-| uơ | uor | huơ  → huor |
-| ươ | ua | hương  → huorng |
-| ưu | uu | hưu  → huu |
-| uy | uy, ui | suy  → suy, huynh  → huing |
+| uơ | wor | huơ  → hwor |
+| ươ | wor | hương  → hworng |
+| ưu | url | hưu  → hurl |
+| uy | wi | suy  → swi, huynh  → hwing |
 
 
 #### Nguyên âm ba
@@ -148,19 +148,19 @@ Mai an  → Maiyan
 
 | Gốc | Mới | ví dụ |
 |----|--|--| 
-| iêu/yêu | ieu | kiêu  → kieu |
-| oai | oai | - |
-| oao| oao | - |
-| oay| oay | - |
-| oeo | oeo | - |
-| uao| uao | - |
-| uây| uei | quây  → kuei |
-| uôi  | uoi | nuôi  → nuoi |
-| ươi | uai | mươi  → muai |
-| ươu | uou | hươu  → huou |
-| uya | uia| khuya  → khuia |
-| uyê | uie | huyên  → huien |
-| uyu | uiu | ### |
+| iêu/yêu | iel | kiêu  → kiel |
+| oai | wai | - |
+| oao| wao | - |
+| oay| way | - |
+| oeo | weo | - |
+| uao| wao | - |
+| uây| wei | quây  → kwei |
+| uôi  | woi | nuôi  → nwoi |
+| ươi | woirl | mươi  → mwoirl |
+| ươu | worl | hươu  → hworl |
+| uya | wia| khuya  → khwia |
+| uyê | wie | huyên  → hwien |
+| uyu | wil | khuyu → khwil |
 
 
 ### Đổi dấu thanh
