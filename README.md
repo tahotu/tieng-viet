@@ -59,7 +59,7 @@ Homqua toi di zuthuiedn orx Haflowng, Quaxngning
 | kh | kh | - |
 | ch | ch | - |
 | gh | g | ghê → ge |
-| ngh, ng | w | nghiêng -> wieng |
+| ngh, ng | wh | nghiêng -> wieng |
 | nh | jn | nho -> jno |
 | gi | j | gia  → ja |
 | ph | f | pha  → fa |
